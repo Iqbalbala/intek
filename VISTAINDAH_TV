@@ -15,7 +15,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="IPTV",INDOSIAR
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="IPTV",TRANSTV
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
 #EXTINF:-1 group-title="IPTV",TRANS7
@@ -89,7 +89,7 @@ http://axcestv.vip:8080/Freeindo/axcestv/448
 
 #EXTINF:-1 group-title="IPTV",ZEEBIOSKOP
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 group-title="DRAMA SANGAT
+#EXTINF:-1 group-title="IPTV",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 group-title="IPTV",HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
