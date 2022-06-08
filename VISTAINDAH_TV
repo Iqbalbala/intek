@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="IPTV",ANIPLUS
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529100_ico.png?ts=1654728213" group-title="IPTV",ANIPLUS
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="IPTV",ANIMAX
+#EXTINF:-1 tvh-logo="https://www.appcreator24.com/srv/imgs/seccs/19529126_ico.png?ts=1654728150" group-title="IPTV",ANIMAX
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="IPTV",MyKIDZ
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529133_ico.png?ts=1654728007"groups-title="IPTV",MyKIDZ
 http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
-#EXTINF:-1 group-title="IPTV",TOONKIDZ
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19558942_ico.png?ts=1654728100" group-title="IPTV",TOONKIDZ
 http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238780_ico.png?ts=1654727818" group-title="IPTV",MENTARI TV
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
-#EXTINF:-1 group-title="IPTV",EGGNETWORK
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19903886_ico.png?ts=1654728269" group-title="IPTV",EGGNETWORK
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="IPTV",PLAY
 http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
@@ -20,7 +20,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="IPTV",TRANSTV
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1 group-title="IPTV",TRANS7
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256255_ico.png?ts=1654728354-title="IPTV",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="IPTV",KOMPASTV
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
@@ -30,7 +30,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title="IPTV",ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVONE
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497983_ico.png?ts=1654728408" group-title="IPTV",TVONE
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="IPTV",METROTV
 http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
