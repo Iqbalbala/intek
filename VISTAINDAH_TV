@@ -12,9 +12,9 @@ http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="IPTV",PLAY
 http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="IPTV",SCTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="IPTV",SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="IPTV",INDOSIAR
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="IPTV",INDOSIAR
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="IPTV",TRANSTV
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
@@ -22,25 +22,25 @@ http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="IPTV",KOMPASTV
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 group-title="IPTV",CNN
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_id.png" group-title="IPTV",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
-#EXTINF:-1 group-title="IPTV",CNBC
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cmbc-indonesia-us-id.png" group-title="IPTV",CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="IPTV",ANTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title="IPTV",ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 group-title="IPTV",TVONE
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="IPTV",METROTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="IPTV",METROTV
 http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
-#EXTINF:-1 group-title="IPTV",METRO GLOBAL NETWORK
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro-globe-network-id.png" group-title="IPTV",METRO GLOBAL NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 #EXTINF:-1 group-title="IPTV",NET TV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="IPTV",RCTI
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti-id.svg" group-title="IPTV",RCTI
 https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-#EXTINF:-1 group-title="IPTV",GLOBALTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-id.png" group-title="IPTV",GLOBALTV
 https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
-#EXTINF:-1 group-title="IPTV",MNCTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="IPTV",MNCTV
 https://dil9b6a0550ma.cloudfront.net/out/v1/3e03f907c20243438a4aed334c3a1caf/index_2.m3u8
 #EXTINF:-1 group-title="IPTV",RTV
 http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
@@ -50,13 +50,13 @@ http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1 group-title="IPTV",RANS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
-#EXTINF:-1 group-title="IPTV",BERITASATU
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="IPTV",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATUWORLD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-world-id.png" group-title="IPTV",BERITASATUWORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATUENGLISH
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jakarta_globe_news_channel_id.png" group-title="IPTV",BERITASATUENGLISH
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",JAKTV
+#EXTINF:-1 tv-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="IPTV",JAKTV
 http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",TANJUPINANG TV
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
@@ -64,8 +64,10 @@ http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="IPTV",RIAU TV
 https://bravo.kugo.id/riautv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="IPTV,BANDUNG TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bandung_tv_id.png" group-title="IPTV,BANDUNG TV
 http://202.150.153.254/bandungtv360p.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv-id.png" group-title="IPTV,BANDUNG TV
+https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv1.png" group-title="IPTV",TV 1 MALAYSIA
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
@@ -111,25 +113,25 @@ http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 #EXTINF:-1 group-title="IPTV",TVNMOVIES
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1 group-title="IPTV",CELESTIALMOVIES
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="IPTV",CELESTIALMOVIES
 http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
 #EXTINF:-1 group-title="IPTV",CCM
 http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
 #EXTINF:-1 group-title="IPTV",CHINESE DRAMA
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 group-title="IPTV",ATV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-id.png" group-title="IPTV",ATV
 http://bravo.kugo.id:1935/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="IPTV",THRILL
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="IPTV",CINEMAWORLD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
-#EXTINF:-1 group-title="IPTV",MCA
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-asia-id.png" group-title="IPTV",MCA
 http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
-#EXTINF:-1 group-title="IPTV",MFC
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-family-id.png" group-title="IPTV",MFC
 http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
 #EXTINF:-1 group-title="IPTV",MCE
 http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
-#EXTINF:-1 group-title="IPTV",MCN
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="IPTV",MCN
 http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
 #EXTINF:-1 group-title="IPTV",ACTION MOVIES
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
@@ -187,6 +189,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits-av
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="IPTV",LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="IPTV",CRIME TIME
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTV",FASHION TV
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="IPTV",DFC
 http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
 
