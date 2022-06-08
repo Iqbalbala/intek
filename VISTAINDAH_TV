@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529100_ico.png?ts=1654728213" group-title="IPTV",ANIPLUS
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvh-logo="https://www.appcreator24.com/srv/imgs/seccs/19529126_ico.png?ts=1654728150" group-title="IPTV",ANIMAX
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529126_ico.png?ts=1654728150" group-title="IPTV",ANIMAX
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529133_ico.png?ts=1654728007"groups-title="IPTV",MyKIDZ
 http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
@@ -36,7 +36,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro-globe-network-id.png" group-title="IPTV",METRO GLOBAL NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
-#EXTINF:-1 group-title="IPTV",NET TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256337_ico.png?ts=1654728969" group-title="IPTV",NET TV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti-id.svg" group-title="IPTV",RCTI
 https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
@@ -44,13 +44,13 @@ https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1
 https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="IPTV",MNCTV
 https://dil9b6a0550ma.cloudfront.net/out/v1/3e03f907c20243438a4aed334c3a1caf/index_2.m3u8
-#EXTINF:-1 group-title="IPTV",RTV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515910_ico.png?ts=1654729037" group-title="IPTV",RTV
 http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
-#EXTINF:-1 group-title="IPTV",TVRI
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185097_ico.png?ts=1654729099" group-title="IPTV",TVRI
 http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="IPTV",O CHANNEL
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926609_ico.png?ts=1654729161" group-title="IPTV",O CHANNEL
 http://playlist.urfan.web.id/qwr9ew/s/s41/02.m3u8
-#EXTINF:-1 group-title="IPTV",RANS TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19737294_ico.png?ts=1654729244" group-title="IPTV",RANS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="IPTV",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -60,15 +60,15 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 tv-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="IPTV",JAKTV
 http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",TANJUPINANG TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19993197_ico.png?ts=1654729324" group-title="IPTV",TANJUPINANG TV
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",BATAM TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20012973_ico.png?ts=1654729384" group-title="IPTV",BATAM TV
 http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
-#EXTINF:-1 group-title="IPTV",RIAU TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19703684_ico.png?ts=1654729447" group-title="IPTV",RIAU TV
 https://bravo.kugo.id/riautv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bandung_tv_id.png" group-title="IPTV,BANDUNG TV
 http://202.150.153.254/bandungtv360p.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv-id.png" group-title="IPTV,BANDUNG TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv-id.png" group-title="IPTV,J TV
 https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv1.png" group-title="IPTV",TV 1 MALAYSIA
@@ -91,9 +91,11 @@ https://list.iptvcat.com/my_list/s/e53ffd2640ae2bb6fa6e310580e12313.m3u8
 #EXTINF:-1 group-title="IPTV",AWANI
 http://axcestv.vip:8080/Freeindo/axcestv/448
 
-#EXTINF:-1 group-title="IPTV",ZEEBIOSKOP
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515968_ico.png?ts=1654729540" group-title="IPTV",ZEEBIOSKOP
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 group-title="IPTV",DRAMA SANGAT
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20806261_ico.png?ts=1654729602" group-title="IPTV",BOLLYONE
+http://139.99.56.106:2082/sakinah1/sakinah1/12222
+#EXTINF:-1 tvg-ligo="https://www.appcreator24.com/srv/imgs/seccs/19529404_ico.png?ts=1654729712"  group-title="IPTV",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 group-title="IPTV",HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
@@ -109,6 +111,8 @@ http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
 #EXTINF:-1 group-title="IPTV",K+
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529355_ico.png?ts=1654728861" group-title="IPTV",KBS WORLD
+http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="IPTV",ONEASIA
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 group-title="IPTV",TVNASIA
