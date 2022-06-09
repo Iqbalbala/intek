@@ -159,7 +159,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTINF:-1 group-title="IPTV",SONY TEN1
 http://ranapk-june.in1.bitmana.io:80/live.php?c=Ten_HD&q=600&e=.m3u8
 #EXTINF:-1 group-title="IPTV",SONY TEN2
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1811941377.m3u8?bdixsportstokenendtime=1654237780&bdixsportstokenstarttime=1654230780
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w938744200.m3u8?bdixsportstokenendtime=1654809580&bdixsportstokenstarttime=1654802580&bdixsportstokenhash=ce1xSAdilegru6TzBzOu5wB1ISMwWTxw23o37dkv-UE%3Dkenstarttime=1654230780
 #EXTINF:-1 group-title="IPTV",BEIN SPORT 1 PREMIUM AR
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IPTV",BEIN SPORT 2 PREMIUM AR
