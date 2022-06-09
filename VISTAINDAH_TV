@@ -97,13 +97,13 @@ http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 http://139.99.56.106:2082/sakinah1/sakinah1/12222
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529404_ico.png?ts=1654729712" group-title="IPTV",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-#EXTINF:-1 group-title="IPTV",HITS
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts=1654771718" group-title="IPTV",HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-#EXTINF:-1 group-title="IPTV",AXN
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510811_ico.png?ts=1654772351" group-title="IPTV",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-#EXTINF:-1 group-title="IPTV",ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497711_ico.png?ts=1654772465" -title="IPTV",ROCK ENTERTAINMENT
 http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="IPTV",ROCK EXTREME
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515958_ico.png?ts=1654772598 group-title="IPTV",ROCK EXTREME
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522332_ico.png?ts=1654730068" group-title="IPTV",KIX ASIA
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
