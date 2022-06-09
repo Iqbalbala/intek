@@ -77,8 +77,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762444_ico.png?ts=1654812440" group-title="IPTV",OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529373_ico.png?ts=1654812924"group-title="IPTV",AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream06/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529373_ico.png?ts=1654812924" group-title="IPTV",AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream06/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20806261_ico.png?ts=1654729602" group-title="IPTV",BOLLYONE
 http://139.99.56.106:2082/sakinah1/sakinah1/12222
