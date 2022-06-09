@@ -88,10 +88,10 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529478_ico.png?ts=1654804931" group-title="IPTV",TV 9 Malaysia
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-#EXTINF:-1 group-title="IPTV",OKEY
-https://list.iptvcat.com/my_list/s/e53ffd2640ae2bb6fa6e310580e12313.m3u8
-#EXTINF:-1 group-title="IPTV",AWANI
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/awani.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762444_ico.png?ts=1654812440" group-title="IPTV",OKEY
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529373_ico.png?ts=1654812924"group-title="IPTV",AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream06/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515968_ico.png?ts=1654729540" group-title="IPTV",ZEEBIOSKOP
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
