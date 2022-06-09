@@ -3,7 +3,7 @@
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529126_ico.png?ts=1654728150" group-title="IPTV",ANIMAX
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529133_ico.png?ts=1654728007"groups-title="IPTV",MyKIDZ
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529133_ico.png?ts=1654728007" groups-title="IPTV",MyKIDZ
 http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19558942_ico.png?ts=1654728100" group-title="IPTV",TOONKIDZ
 http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
@@ -20,7 +20,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="IPTV",TRANSTV
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256255_ico.png?ts=1654728354-title="IPTV",TRANS7
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256255_ico.png?ts=1654728354" group-title="IPTV",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="IPTV",KOMPASTV
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
@@ -66,9 +66,9 @@ http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19703684_ico.png?ts=1654729447" group-title="IPTV",RIAU TV
 https://bravo.kugo.id/riautv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bandung_tv_id.png" group-title="IPTV,BANDUNG TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bandung_tv_id.png" group-title="IPTV",BANDUNG TV
 http://202.150.153.254/bandungtv360p.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv-id.png" group-title="IPTV,J TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv-id.png" group-title="IPTV",J TV
 https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv1.png" group-title="IPTV",TV 1 MALAYSIA
@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510811_ico.png?ts=1654772351" group-title="IPTV",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497711_ico.png?ts=1654772465" -title="IPTV",ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497711_ico.png?ts=1654772465" group-title="IPTV",ROCK ENTERTAINMENT
 http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515958_ico.png?ts=1654772598 group-title="IPTV",ROCK EXTREME
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
@@ -180,12 +180,10 @@ http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 group-title="IPTV",U CHANNEL
 http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="IPTV,MUSICA
+#EXTINF:-1 group-title="IPTV",MUSICA
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="IPTV",SHOWBIZ
 http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",MALEO
-http://bravo.kugo.id:19/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="IPTV",DANGDUT TV
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="IPTV",MTV HITS
