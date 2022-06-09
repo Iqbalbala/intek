@@ -11,7 +11,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19903886_ico.png?ts=1654728269" group-title="IPTV",EGGNETWORK
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="IPTV",PLAY
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20853502_ico.png?ts=1654777626" group-title="IPTV",PLAY
 http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="IPTV",SCTV
