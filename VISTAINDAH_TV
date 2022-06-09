@@ -77,15 +77,13 @@ https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19758847_ico.png?ts=1654802353" group-title="IPTV",TV 2 MALAYSIA
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_my.png" group-title="IPTV",TV 3 MALAYSIA
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png" group-title="IPTV",TV6
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529469_ico.png?ts=1654807239" group-title="IPTV",TV 3 MALAYSIA
+http://139.99.56.106:2082/sakinah1/sakinah1/8432
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19760502_ico.png?ts=1654807109" group-title="IPTV",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1 tvg-id="NTV7" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="IPTV",NTV 7
-#EXTVLCOPT:http-referrer=https://dailymotion.com
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529491_ico.png?ts=1654807307" group-title="IPTV",NTV 7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-#EXTINF:-1 tvg-id="8TV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="IPTV",8TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19746615_ico.png?ts=1654807358" group-title="IPTV",8TV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529478_ico.png?ts=1654804931" group-title="IPTV",TV 9 Malaysia
@@ -123,7 +121,7 @@ http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529148_ico.png?ts=1654730480" group-title="IPTV",TVN MOVIES
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="IPTV",CELESTIALMOVIES
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529153_ico.png?ts=1654807431" group-title="IPTV",CELESTIALMOVIES
 http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529154_ico.png?ts=1654776572" group-title="IPTV",CCM
 http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
@@ -137,13 +135,13 @@ http://playlist.urfan.web.id/x6bnqe/s/s94/S4/mnf.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1654776901" group-title="IPTV",CINEMAWORLD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-asia-id.png" group-title="IPTV",MCA
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529185_ico.png?ts=1654807472" group-title="IPTV",MCA
 http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-family-id.png" group-title="IPTV",MFC
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529189_ico.png?ts=1654807515" group-title="IPTV",MFC
 http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529197_ico.png?ts=1654776960" group-title="IPTV",MCE
 http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="IPTV",MCN
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529201_ico.png?ts=1654807555" group-title="IPTV",MCN
 http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="IPTV",ACTION MOVIES
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
