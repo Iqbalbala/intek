@@ -118,12 +118,22 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 http://ranapk-june.in1.bitmana.io:80/live.php?c=Ten_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392768_ico.png?ts=1654805937" group-title="IPTV",SONY TEN2
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w938744200.m3u8?bdixsportstokenendtime=1654809580&bdixsportstokenstarttime=1654802580&bdixsportstokenhash=ce1xSAdilegru6TzBzOu5wB1ISMwWTxw23o37dkv-UE%3Dkenstarttime=1654230780
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1654876988" group-title="IPTV",SUPER SPORT 1
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1654818088" group-title="IPTV",SUPER SPORT 2
-http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1721
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1654818155" group-title="IPTV",SUPER SPORT 3
-http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1720
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1654818275" group-title="IPTV",SUPER SPORT 4
-http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1719
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115618
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20676583_ico.png?ts=1654877053" group-title="IPTV",SUPER SPORT 5
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115619
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1654877280" group-title="IPTV",BEIN 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/103123
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1654877319" group-title="IPTV",BEIN 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/103124
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1654877359" group-title="IPTV",BEIN 3
+http://gplus.live:8080/168573780756/N9UFR0P64W/103125
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600629_ico.png?ts=1654805997" group-title="IPTV",NBA
 http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
 
