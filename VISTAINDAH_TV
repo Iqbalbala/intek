@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19975904_ico.png?ts=1654895307" group-title="IPTV",SELAMAT DATANG DI INTEK IPTV
+https://23683.live.streamtheworld.com:443/PRAMBORS_FM_SC?dist=pramborsweb&pname=tdwidgets
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529100_ico.png?ts=1654728213" group-title="IPTV",ANIPLUS
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529126_ico.png?ts=1654728150" group-title="IPTV",ANIMAX
