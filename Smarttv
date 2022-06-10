@@ -167,3 +167,42 @@ https://bcovlive-a.akamaihd.net/d578564561544716bd11b4af8d6ed4ea/ap-northeast-1/
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8?id=migitv&m=1
 
+
+____________VODEO ON DEMAND
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All at Once
+https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7jrhuJnfF6Qb-UiEkkSrI9qyJKD-24QVHQ&usqp=CAU" group-title="VOD",Ambulance
+https://stream.xpeer.xyz/playlist1/ambulance-2022-03.06.2022-06.50.42/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWA9pQUpEMwg5Np2oenunNxN4ndGt0RudxsQ&usqp=CAU" group-title="VOD",The Charnel House
+https://stream.xpeer.xyz/playlist1/the-charnel-house-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_U7J6234bzgVhE74vTTBxqOaxuKT-e7JCjw&usqp=CAU" group-title="VOD",Temporal
+https://stream.xpeer.xyz/playlist1/temporal-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfU0t9uwP6tEukjW03mtE0TRWf8uvKk9QWQ&usqp=CAU" group-title="VOD",Top Gun Maverick
+https://stream.xpeer.xyz/playlist1/top-gun-maverick-2022-07.06.2022-15.57.54/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwkGfFvcWHobxU8UumAV-T_j6OFWhWyxfFQ&usqp=CAU" group-title="VOD",Hustle
+https://stream.xpeer.xyz/playlist1/hustle-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvYMUOTKjoVEZ0TtWKD4z2EXqj3OdK2mN-WQ&usqp=CAU" group-title="VOD",Rise Roar Revolt
+https://stream.xpeer.xyz/playlist1/rrr-rrr-rise-roar-revolt-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD00DQxvAceXfjZZz4y5C_NszK87HqKY9UiQ&usqp=CAU" group-title="VOD",The Batman
+https://stream.xpeer.xyz/playlist1/the-batman-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXkNOO2yb3acT-865pT03yU7NZm3hcF0QpQ&usqp=CAU" group-title="VOD",The Northman
+https://stream.xpeer.xyz/playlist1/the-northman-2022-23.05.2022-20.22.24/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yCe9-QRm3l9_mvx1OZmpIpw2Puxzxzcjdg&usqp=CAU" group-title="VOD",The Girl on Bulldozer
+https://stream.xpeer.xyz/playlist1/the-girl-on-a-bulldozer-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7j5V_JvySr9QhtYn-lO_-uRzBQnC9eChvfQ&usqp=CAU" group-title="VOD",A Fairy Tale After All
+https://stream.xpeer.xyz/playlist1/a-fairy-tale-after-all-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU" group-title="VOD",Doctor Strange in the Multiverse of Madness 
+https://stream.xpeer.xyz/playlist1/doctor-strange-in-the-multiverse-of-madness-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5QDIU-e7M6E6kDOCPLT8cWCMVDqqIFBREEg&usqp=CAU" group-title="VOD",The Unbearable Weight of Massive Talent
+https://stream.xpeer.xyz/playlist1/the-unbearable-weight-of-massive-talent-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jVoh1tE6groa0GK1yUqvBlfL5w4vWYcUmA&usqp=CAU" group-title="VOD",Runway
+https://stream.xpeer.xyz/playlist1/runway-34-2022-03.06.2022-07.16.13/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2Aj-0hjGr-u5zgreoNdunsuqXczCQ5bUAw&usqp=CAU" group-title="VOD",One For The Road
+https://stream.xpeer.xyz/playlist1/one-for-the-road-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIJAElR7FzPrhhpKXxhxONVus1T0lP4PLuw&usqp=CAU" group-title="VOD",Cyber Hell Exposing an Internet Horror
+https://stream.xpeer.xyz/playlist1/cyber-hell-exposing-an-internet-horror-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwkGfFvcWHobxU8UumAV-T_j6OFWhWyxfFQ&usqp=CAU" group-title="VOD",Attack
+https://stream.xpeer.xyz/playlist1/attack-2022/master_480.m3u8
+
+
+
