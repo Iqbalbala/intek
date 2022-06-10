@@ -133,6 +133,8 @@ http://bravo.kugo.id:1935/atv/udp.stream_360p/playlist.m3u8
 http://playlist.urfan.web.id/x6bnqe/s/s94/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498504_ico.png?ts=1654776826" group-title="IPTV",THRILL
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19989109_ico.png?ts=1654871242" group-title="IPTV",Boo
+http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1697
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1654776901" group-title="IPTV",CINEMAWORLD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529185_ico.png?ts=1654807472" group-title="IPTV",MCA
