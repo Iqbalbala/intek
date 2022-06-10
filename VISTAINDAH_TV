@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762444_ico.png?ts=1654812440" group-title="IPTV",OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529373_ico.png?ts=1654812924" group-title="IPTV",AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream06/stream05/streamPlaylist.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist/streaming06/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515968_ico.png?ts=1654729540" group-title="IPTV",ZEE BIOSKOP
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
@@ -162,7 +162,8 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20274240_ico.png?ts=1654805804" group-title="IPTV",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392732_ico.png?ts=1654805856" group-title="IPTV",SONY TEN1
-http://ranapk-june.in1.bitmana.io:80/live.php?c=Ten_HD&q=600&e=.m3u8
+https://s2.123zcast.me:8205/hd/hls/cR22YXYfYJcT0H8xfGFWSA/1654896179/ten1endia.m3u8
+http://ranapk-june.in1.bitmana.io:80/live.php?c=Ten_HD&q=600&e=.m3u
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392768_ico.png?ts=1654805937" group-title="IPTV",SONY TEN2
 http://ranapk-june.in1.bitmana.io:80/live.php?c=Ten_2&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1654876988" group-title="IPTV",SUPER SPORT 1
