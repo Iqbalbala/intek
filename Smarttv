@@ -80,36 +80,14 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529373_ico.png?ts=1654812924" group-title="IPTV",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515968_ico.png?ts=1654729540" group-title="IPTV",ZEEBIOSKOP
-http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529404_ico.png?ts=1654729712" group-title="IPTV",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts=1654771718" group-title="IPTV",HITS
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510811_ico.png?ts=1654772351" group-title="IPTV",AXN
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497711_ico.png?ts=1654772465" group-title="IPTV",ROCK ENTERTAINMENT
-http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515958_ico.png?ts=1654772598 group-title="IPTV",ROCK EXTREME
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522332_ico.png?ts=1654730068" group-title="IPTV",KIX ASIA
 http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1716
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522345_ico.png?ts=1654730192" group-title="IPTV",GEM
-http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522353_ico.png?ts=1654730261" group-title="IPTV",K+
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529355_ico.png?ts=1654728861" group-title="IPTV",KBS WORLD
 http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522360_ico.png?ts=1654730327" group-title="IPTV",ONE ASIA
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19528127_ico.png?ts=1654730419" group-title="IPTV",TVN ASIA
-http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529148_ico.png?ts=1654730480" group-title="IPTV",TVN MOVIES
-http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529153_ico.png?ts=1654807431" group-title="IPTV",CELESTIALMOVIES
 http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1718
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529154_ico.png?ts=1654776572" group-title="IPTV",CCM
-http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926912_ico.png?ts=1654776652" group-title="IPTV",CHINESE DRAMA
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20573464_ico.png?ts=1654809632" group-title="IPTV",ATV
@@ -118,16 +96,6 @@ http://bravo.kugo.id:1935/atv/udp.stream_360p/playlist.m3u8
 http://playlist.urfan.web.id/x6bnqe/s/s94/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19989109_ico.png?ts=1654871242" group-title="IPTV",THRILL
 http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1697
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1654776901" group-title="IPTV",CINEMAWORLD
-http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529185_ico.png?ts=1654807472" group-title="IPTV",MCA
-http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529189_ico.png?ts=1654807515" group-title="IPTV",MFC
-http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529197_ico.png?ts=1654776960" group-title="IPTV",MCE
-http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529201_ico.png?ts=1654807555" group-title="IPTV",MCN
-http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="IPTV",ACTION MOVIES
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
@@ -163,9 +131,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 https://h1.intechmedia.net/intech/ch3.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19746211_ico.png?ts=1654806164" group-title="IPTV",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510775_ico.png?ts=1654806232" group-title="IPTV",QURANTV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510775_ico.png?ts=1654806232" group-title="IPTV",TAWAF
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515939_ico.png?ts=1654806293" group-title="IPTV",SUNNAHTV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515939_ico.png?ts=1654806293" group-title="IPTV",QURAN TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="IPTV",MUSICA
