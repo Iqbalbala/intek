@@ -1,4 +1,5 @@
 #EXTM3U
+____________LIVE TV
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19975904_ico.png?ts=1654895307" group-title="IPTV",SELAMAT DATANG DI INTEK IPTV
 https://23683.live.streamtheworld.com:443/PRAMBORS_FM_SC?dist=pramborsweb&pname=tdwidgets
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529100_ico.png?ts=1654728213" group-title="IPTV",ANIPLUS
@@ -221,6 +222,8 @@ https://bcovlive-a.akamaihd.net/d578564561544716bd11b4af8d6ed4ea/ap-northeast-1/
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8?id=migitv&m=1
 
+
+____________VODEO ON DEMAND
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All at Once
 https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022/master_480.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7jrhuJnfF6Qb-UiEkkSrI9qyJKD-24QVHQ&usqp=CAU" group-title="VOD",Ambulance
