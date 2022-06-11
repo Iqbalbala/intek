@@ -43,8 +43,19 @@ http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256337_ico.png?ts=1654728969" group-title="IPTV",NET TV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20053038_ico.png?ts=1654801099" group-title="IPTV",RCTI
-http://iptv12k.com:35461/8032022060101/452381/1812
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,
+CLOSED-CAPTIONS=NONE,
+BANDWIDTH=400000,
+NAME=720p,
+RESOLUSI=1280x720
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20053038_ico.png?ts=1654801099" group-title="IPTV",RCTI
+https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20690321_ico.png?ts=1654801175" group-title="IPTV",GLOBALTV
 http://iptv12k.com:35461/8032022060101/452381/4290
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="IPTV",MNCTV
