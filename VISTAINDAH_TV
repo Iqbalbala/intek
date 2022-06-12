@@ -220,7 +220,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756971_ico.png?ts=1654862036" group-title="IPTV",LIVE Stream 1
-https://bcovlive-a.akamaihd.net/d578564561544716bd11b4af8d6ed4ea/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1654862138~exp=9007200909603129~acl=/d578564561544716bd11b4af8d6ed4ea/*/profile_1/chunklist.m3u8*~hmac=fba5bcd21b8c3fe9647f0946e54da261e47fc70e7b821232d5124a11f9152940
+http://tvnid.wapgem.com:80/vidio/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8?id=migitv&m=1
 
