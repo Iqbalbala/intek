@@ -57,7 +57,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185097_ico.png?ts=1654729099" group-title="IPTV",TVRI
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926609_ico.png?ts=1654729161" group-title="IPTV",O CHANNEL
-http://playlist.urfan.web.id/qwr9ew/s/s41/02.m3u8
+https://ideplay.com/playlist/03a362f8432f9c98e7e0849d20281e66/3d2f684fbc0ee68427226cc7a33dd4cf/master.m3u8?token=VGJMcnR3T1FrQWdEZjB1R0FxSFpEZz09Ojr58XjQK54UZ6Njqk6a58S9
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19737294_ico.png?ts=1654729244" group-title="IPTV",RANS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497933_ico.png?ts=1654802059" group-title="IPTV",BERITA SATU
@@ -203,8 +203,12 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20572561_ico.png?ts=1655038004" group-title="IPTV",PRAMBORS
 https://cdn13jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=yEaxDf2yv0I4CmH6bdAt9g&uid=&expp=1655044002
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20572561_ico.png?ts=1655038004" group-title="IPTV",PRAMBORS
+https://app.kugo.id:443/ninmedia-mobile-server/api/General/addWatchStreamLog.json?d=540b6842-3266-4ed1-b0e7-64ae892fdc99&_v=2027
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19927127_ico.png?ts=1654806546" group-title="IPTV",DANGDUT TV
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPT, POP MUSIK
+https://app.kugo.id:443/ninmedia-mobile-server/api/Admob/getAvailableAdsChannel.json?d=540b6842-3266-4ed1-b0e7-64ae892fdc99&_v=2027
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20638080_ico.png?ts=1654806595" group-title="IPTV",MTV HITS
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits-avc1_1200000=10004-mp4a_144800_spa=20000.m3u8
 
