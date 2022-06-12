@@ -127,9 +127,9 @@ http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w938744200.m3u8?bdi
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1654876988" group-title="IPTV",SUPER SPORT 1
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1654818088" group-title="IPTV",SUPER SPORT 2
-http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1721
+http://iptvtree.net:8080/FM10020/4d136785/157556
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1654818155" group-title="IPTV",SUPER SPORT 3
-http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1720
+http://iptvtree.net:8080/FM10020/4d136785/157557
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600629_ico.png?ts=1654805997" group-title="IPTV",NBA
 http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
 
