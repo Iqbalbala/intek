@@ -134,9 +134,9 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
 http://iptvtree.net:8080/FM10020/4d136785/157556
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1654818155" group-title="IPTV",SUPER SPORT 3
 http://iptvtree.net:8080/FM10020/4d136785/157557
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949838_ico.png?ts=1655035490" group-title="IPTV",EXPN 1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949838_ico.png?ts=1655035490" group-title="IPTV",ESPN 1
 http://38.127.211.18:80/live/c2eds/ESPN1USA/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19729498_ico.png?ts=1655035538" group-title="IPTV",EXPN 2
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19729498_ico.png?ts=1655035538" group-title="IPTV",EZPN 2
 http://38.127.211.18:80/live/c2eds/ESPN2USA/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600629_ico.png?ts=1654805997" group-title="IPTV",NBA
 http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
@@ -158,6 +158,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20572561_ico.png?ts=1655038004" group-title="IPTV",PRAMBORS
 https://cdn13jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=yEaxDf2yv0I4CmH6bdAt9g&uid=&expp=1655044002
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20910317_ico.png?ts=1655078832" group-title="IPTV",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20638080_ico.png?ts=1654806595" group-title="IPTV",MTV HITS
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits-avc1_1200000=10004-mp4a_144800_spa=20000.m3u8
 
