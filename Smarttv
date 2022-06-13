@@ -182,7 +182,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756971_ico.png?ts=1654862036" group-title="IPTV",LIVE Stream 1
 http://tvnid.wapgem.com:80/vidio/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
-https://ideplay.com/dash/03a362f8432f9c98e7e0849d20281e66/561d5cd87c12820d823c8808fbe889a0/master.mpd?token=aTU3bHdzM0RZSW0vaTBaeWRPVHpsQT09Ojr89LtWzYRFugZTVlWLeJE8
+https://etslive-2-vidio-com.akamaized.net/exp=1655122444~acl=/hls-p/ingest_9120_*/*~hmac=6a2d95374c81900419518ce77a4459923595400a23fe0017003c88b670714528/hls-p/ingest_9120_720p/index.m3u8
 
 
 ____________VODEO ON DEMAND
