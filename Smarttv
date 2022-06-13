@@ -178,10 +178,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9dd30287dc5ffcfb4efb1e0521c3c8f8446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510438_ico.png?ts=1654805457" group-title="IPTV",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756971_ico.png?ts=1654862036" group-title="IPTV",LIVE Stream 1
 http://tvnid.wapgem.com:80/vidio/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
-https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8?id=migitv&m=1
+https://etslive-2-vidio-com.akamaized.net/exp=1654989901~acl=/hls-p/ingest_205_*/*~hmac=bd02ebd2fc373b8d1590de25536a1d064353aad6dd9b492149744ede1fbc9ca8/hls-p/ingest_205_1080p/index.m3u8
 
 
 ____________VODEO ON DEMAND
