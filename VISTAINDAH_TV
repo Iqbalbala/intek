@@ -172,6 +172,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20572561_ico.png?ts=1655038004" group-title="IPTV",PRAMBORS
 https://cdn11jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=ZGKPRROe94fa0wrQVBP4yQ&uid=&expp=1655159073
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20923805_ico.png?ts=1655155582" group-title="IPTV",MEGASWARA TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20638080_ico.png?ts=1654806595" group-title="IPTV",MTV HITS
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits-avc1_1200000=10004-mp4a_144800_spa=20000.m3u8
 
