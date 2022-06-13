@@ -105,7 +105,10 @@ http://bravo.kugo.id:1935/atv/udp.stream_360p/playlist.m3u8
 http://95.214.235.96:8880/SWFAF1222122/UZ7NT8FA/1697
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="IPTV",ACTION MOVIES
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767" group-title="IPTV",AMC
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932" group-title="IPTV",MOVIE SHAPIER
+https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498270_ico.png?ts=1654800910" group-title="IPTV",TVRI SPORT
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
