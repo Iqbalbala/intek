@@ -158,10 +158,10 @@ EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20683027_ico.png
 http://iptvtree.net:8080/FM10020/4d136785/287793
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1654876988" group-title="IPTV",SUPER SPORT 1
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1654818088" group-title="IPTV",SUPER SPORT 2
-http://iptvtree.net:8080/FM10020/4d136785/157556
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1654818155" group-title="IPTV",SUPER SPORT 3
-http://iptvtree.net:8080/FM10020/4d136785/157557
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1654818088" group-title="IPTV",SUPER SPORT 2
+http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/115616.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1654818155" group-title="IPTV",SUPER SPORT 3
+http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/115617.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949838_ico.png?ts=1655035490" group-title="IPTV",ESPN 1
 http://38.127.211.18:80/live/c2eds/ESPN1USA/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19729498_ico.png?ts=1655035538" group-title="IPTV",ESPN 2
