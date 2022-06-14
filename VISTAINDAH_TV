@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19975904_ico.png?ts=1654895307" group-title="IPTV",SELAMAT DATANG DI INTEK IPTV
-https://www.youtube.com/embed/GLNtbkv4pX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/GLNtbkv4pX0; picture-in-picture
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20860353_ico.png?ts=1654812112" group-title="IPTV",SPACETOON
 http://bravo.kugo.id:1935/spacetoon/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238780_ico.png?ts=1654727818" group-title="IPTV",MENTARI TV
