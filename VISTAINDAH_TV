@@ -202,7 +202,7 @@ https://live-global-cdn-v02.afreecatv.com/live-stm-20/auth_playlist.m3u8?aid=.A3
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
 https://dno-fifajs-native-major.youku.com/fifa_jieshuo/0316btv02main_sjb480.m3u8?auth_key=1686715467-0-0-67e8d90b8c50886674b1951f6eb0176b&m=1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238523_ico.png?ts=1655201862" group-title="IPTV",LIVE Stream 3
-http://tvnid.wapgem.com:80/vidio/indosiar.m3u8
+http://tvn10.xyz:80/vidio/indosiar.m3u8
 
 ____________VODEO ON DEMAND
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All at Once
