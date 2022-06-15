@@ -196,7 +196,9 @@ http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 https://cdn11jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=ZGKPRROe94fa0wrQVBP4yQ&uid=&expp=1655159073
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20923805_ico.png?ts=1655155582" group-title="IPTV",MEGASWARA TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20638080_ico.png?ts=1654806595" group-title="IPTV",MTV HITS
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333" group-title="IPTV",MOLA HITS
+http://ventdelnord.tv:8080/mola/directe.m3u8
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20638080_ico.png?ts=1654806595" group-title="IPTV",MTV HITS
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits-avc1_1200000=10004-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="IPTV",IN WILD
