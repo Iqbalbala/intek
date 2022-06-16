@@ -21,7 +21,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",INDOSIAR
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926609_ico.png?ts=1654729161" group-title="IPTV",O CHANNELL
-https://etslive-2-vidio-com.akamaized.net/exp=1655232006~acl=/hls-p/ingest_206_*/*~hmac=2c98456b4ce84022ef5df0e8e480648ad1968bee376e2f661b48f9f90db92578/hls-p/ingest_206_720p/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-2-vidio-com.akamaized.net/exp=1655421671~acl=/hls-p/ingest_206_*/*~hmac=01d315a60a0119a250c79777eeceefbaf00e4c5d02540f089c33e06ffeac83fa/hls-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20235430_ico.png?ts=1654801607" group-title="IPTV",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1281270485_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256255_ico.png?ts=1654728354" group-title="IPTV",TRANS 7
