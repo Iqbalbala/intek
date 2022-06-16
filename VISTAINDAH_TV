@@ -52,8 +52,8 @@ https://ideplay.com/playlist/03a362f8432f9c98e7e0849d20281e66/e8186aa515634096a8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 https://ideplay.com/playlist/03a362f8432f9c98e7e0849d20281e66/34a91096dfa19aa3e2c0a16194ad85aa/master.m3u8?token=MlM1MGhHeGNYUmxCaXVVdmpmMUZmZz09OjogPQtz4HDKqjyFWJMWFona
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="IPTV",MNCTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="IPTV",MNCTV
+EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="IPTV",MNCTV (720p)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
