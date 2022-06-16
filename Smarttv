@@ -192,8 +192,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19927127_ico.png?ts=1654806546" group-title="IPTV",DANGDUT TV
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20958990_ico.png?ts=1655339707" group-title="IPTV",BOX HITS
-https://edge-823-ch-gv.filmon.com/live/5947.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe4f63e5e98c3182ea623cbf4be6ebad30b274c2319cd99a83f6d7a142be097beb96c8f72857390dbd7ca644a489d51b415710b85ecaa4eb7d2e2863995033d3dcef864fb7bd20a88788b289c3a3d9478639355d8822278138e1a20cb7b2fd149423920a9c4dcfc29c6ac6093b1617ec2a31f884c0bc931648a95756e276f4007511bf0edac8866fa895670ab838461d509faeb46a6575970ebbc1c3ae7c947860a601daf31def6183
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20958990_ico.png?ts=1655339707" group-title="IPTV",BOX HITS
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20923805_ico.png?ts=1655155582" group-title="IPTV",MEGASWARA TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333" group-title="IPTV",MOLA HITS
