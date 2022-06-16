@@ -193,8 +193,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19927127_ico.png?ts=1654806546" group-title="IPTV",DANGDUT TV
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20572561_ico.png?ts=1655038004" group-title="IPTV",PRAMBORS
-https://cdn11jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=ZGKPRROe94fa0wrQVBP4yQ&uid=&expp=1655159073
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20958990_ico.png?ts=1655339707" group-title="IPTV",BOX HITS
+https://edge-823-ch-gv.filmon.com/live/5947.high.stream/playlist.m3u8?id=0ad5aac39bb13fbea2d434fa49110126bb6e29b173cb73db9c657fbec3350bbbaee3f3f55d80
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20923805_ico.png?ts=1655155582" group-title="IPTV",MEGASWARA TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333" group-title="IPTV",MOLA HITS
