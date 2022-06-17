@@ -245,9 +245,12 @@ https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8?id=migitv&m=1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="IPTV",BEIN 1
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="IPTV",BEIN 2 PREMIUM AR
-http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94494.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1655148882" group-title="IPTV",BEIN 3 PREMIUM AR
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="IPTV",BEIN 3
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1655148882" group-title="IPTV",BEIN 3 PREMIUM AR
 http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94490.m3u8
 
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392732_ico.png?ts=1654805856" group-title="IPTV",SONY TEN1
