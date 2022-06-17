@@ -254,10 +254,16 @@ http://ranapk-june2.in1.bitmana.io:80/livez.php?c=Ten_1&q=1200&e=.m3u8
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w938744200.m3u8?bdixsportstokenendtime=1654809580&bdixsportstokenstarttime=1654802580&bdixsportstokenhash=ce1xSAdilegru6TzBzOu5wB1ISMwWTxw23o37dkv-UE%3Dkenstarttime=1654230780
 http://ranapk-june2.in1.bitmana.io:80/livez.php?c=Ten_2&q=1200&e=.m3u8
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20683026_ico.png?ts=1655152611" group-title="IPTV",ASTRO ARENA 1
-http://iptvtree.net:8080/FM10020/4d136785/157485
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20683027_ico.png?ts=1655152672" group-title="IPTV",ASTRO ARENA 2
-http://iptvtree.net:8080/FM10020/4d136785/287793
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",MNC Sports
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",MNC Sports 2
+https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1654876988" group-title="IPTV",SUPER SPORT 1
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
