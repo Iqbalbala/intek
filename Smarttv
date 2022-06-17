@@ -41,8 +41,12 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20025256_ico.png?ts=1654802008" group-title="IPTV",METRO GLOBAL NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256337_ico.png?ts=1654728969" group-title="IPTV",NET TV
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256337_ico.png?ts=1654728969" group-title="IPTV",NET TV
 http://bravo.kugo.id:1935/nettv/udp.stream_360p/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256337_ico.png?ts=1654728969" group-title="IPTV",NET HD
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 ____________MNC GROUP
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20053038_ico.png?ts=1654801099" group-title="IPTV",RCTI
