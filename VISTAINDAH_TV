@@ -315,6 +315,27 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763624_ico.png?ts=1654806764" group-title="IPTV",LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8?checkedby:iptvcat.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/discoverychannel.png" group-title="IPTV",Discovery
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/animalplanet.png" group-title="IPTV",Animal Planet
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/ngc.png" group-title="IPTV",Nat Geo Channel
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/natgeowild.png" group-title="IPTV",Nat Geo Wild
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20394407_ico.png?ts=1654806824" group-title="IPTV",CRIME TIME
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974578_ico.png?ts=1654806875" group-title="IPTV",FASHION TV
