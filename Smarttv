@@ -401,3 +401,8 @@ https://stream.xpeer.xyz/playlist1/the-lost-city-2022/master_480.m3u8
 https://stream.xpeer.xyz/playlist1/uncharted-2022/master_480.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQ8_0JUBdszxYCOGh3KzkpwWWQmXdQTgFoQ&usqp=CAU" group-title="VOD",Jai Bhim
 https://stream.xpeer.xyz/playlist2/jai-bhim-2021/master_480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=o554588.ingest.sentry.io
+#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/6152382/envelope/?sentry_key=2289b56bd44c4069b1eb457dbcc9c6c9&sentry_version=7
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000857_ico.png?ts=1655550770" group-title="IPTV"TES
+https://etslive-2-vidio-com.akamaized.net/exp=1655594098~acl=/hls-p/ingest_206_*/*~hmac=5ae3155c3ece6f63ef1e6fc9c2da8acfdbf27eed76311b138a082376e7a0a08d/hls-p/ingest_206_720p/index.m3u8
