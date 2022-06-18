@@ -362,6 +362,8 @@ http://tvn10.xyz:80/vidio/indosiar.m3u8
 
 
 ____________VODEO ON DEMAND
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19975904_ico.png?ts=1654895307" group-title="VOD",DISARANKAN UNTUK MEMBUKA VIDEO DI PEMUTAR EXTERNAL
+https://rr2---sn-2ugxh5a5-wvbl.googlevideo.com/videoplayback?expire=1655559007&ei=_36tYo_hL5OwvQTQ5rSwBg&ip=194.233.78.202&id=o-AAD1Vojz5dqOfX7W23qvM0L5Iwrnhe2i6Rni2tmrkrxD&itag=22&source=youtube&requiressl=yes&spc=4ocVCwOrG-rKzA8tXWgPaNu8DIQV4Cg&vprv=1&mime=video%2Fmp4&ns=Ddg4UHCnoF1gPq6nK_WQ87UG&cnr=14&ratebypass=yes&dur=160.101&lmt=1655414792680873&fexp=24001373,24007246&c=WEB&txp=6211224&n=0611uYp0KMWMFgM9Cs4&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgLClCM3C4EIlNLN0KiBx_w7j7_7GJPqN0GNOHCKTx15gCIQCyAItk3dsv0Fy_99OiMMMRh9O7ItC3cCgSu0kl-phwVg%3D%3D&redirect_counter=1&rm=sn-nposl76&req_id=adf987ffbffa3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=Gt&mip=103.124.198.50&mm=31&mn=sn-2ugxh5a5-wvbl&ms=au&mt=1655537326&mv=m&mvi=2&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgFDJ6HOkyZejmPSIRIpM7uGr8F7On5Z08JPFBEi5PIDsCIQDzRKJacXjU30w8I1n2_305x1zdOOO4P2e0bHPMUJ9ibA%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All at Once
 https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022/master_480.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7jrhuJnfF6Qb-UiEkkSrI9qyJKD-24QVHQ&usqp=CAU" group-title="VOD",Ambulance
