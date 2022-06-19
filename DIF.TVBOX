@@ -14,17 +14,13 @@ http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 group-title="IPTV",ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="IPTV",RCTI
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+https://ideplay.com/playlist/03a362f8432f9c98e7e0849d20281e66/e8186aa515634096a8def833b796471c/master.m3u8?token=aGY0b2hXS3IvVDZHU0pMMHI2WkJvdz09OjpovpgteuNAyUHJRoWMggUy
 #EXTINF:-1 tvg-logo="" group-title="IPTV",Global tv
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+https://ideplay.com/playlist/03a362f8432f9c98e7e0849d20281e66/34a91096dfa19aa3e2c0a16194ad85aa/master.m3u8?token=aGY0b2hXS3IvVDZHU0pMMHI2WkJvdz09OjpovpgteuNAyUHJRoWMggUy
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="" group-title="IPTV",MNCTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+https://ideplay.com/playlist/03a362f8432f9c98e7e0849d20281e66/08232ee16e4c40f972bc68149c68ed6e/master.m3u8?token=aGY0b2hXS3IvVDZHU0pMMHI2WkJvdz09OjpovpgteuNAyUHJRoWMggUy
 #EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="IPTV",iNews
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
+https://ideplay.com/playlist/03a362f8432f9c98e7e0849d20281e66/ddf296c89b4d660dcc64f2b012a824bd/master.m3u8?token=aGY0b2hXS3IvVDZHU0pMMHI2WkJvdz09OjpovpgteuNAyUHJRoWMggUy
 #EXTINF:-1 group-title="IPTV",TVONE
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="IPTV",METROTV
