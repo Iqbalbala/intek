@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="IPTV",Selamat datang di internet IPTV
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="IPTV",SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="IPTV",INDOSIAR
@@ -23,6 +25,8 @@ http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 group-title="IPTV",MUSICA
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="IPTV",SHOWBIZ
+http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",RANS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="IPTV",BERITASATU
@@ -93,8 +97,44 @@ http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
 http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
 #EXTINF:-1 group-title="IPTV",LEARNING&KNOWLEDGE
 http://playlist.urfan.web.id/x6bnqe/s/s36/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",SHOWBIZ
-http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",TVRI SPORT
+http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="IPTV",FIGHTSPORTS
+http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
+#EXTINF:-1 group-title="IPTV",MOTORVISIONTV
+http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="IPTV",EGGNETWORK
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="IPTV",PLAY
+http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPTV",SPOTV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPTV",SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPTV",BEIN SPORT EXTRA
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8?id=migitv&m=1
+#EXTINF:-1 group-title="IPTV",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="IPTV",ADITV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV",TATV
+https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv1.png" group-title="IPTV",TV 1 MALAYSIA
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv2.png" group-title="IPTV",TV 2 MALAYSIA
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png" group-title="IPTV",TV6
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 tvg-id="NTV7" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="IPTV",NTV 7
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 tvg-id="8TV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="IPTV",8TV
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+#EXTINF:-1 group-title="IPTV",OKEY
+https://list.iptvcat.com/my_list/s/e53ffd2640ae2bb6fa6e310580e12313.m3u8
+
 #EXTINF:-1 group-title="IPTV",CNA
 http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
 #EXTINF:-1 group-title="IPTV",NHKWORLD
@@ -117,34 +157,3 @@ http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
 http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
 #EXTINF:-1 group-title="IPTV",STYLE
 http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVRI SPORT
-http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="IPTV",FIGHTSPORTS
-http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
-#EXTINF:-1 group-title="IPTV",MOTORVISIONTV
-http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="IPTV",EGGNETWORK
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="IPTV",PLAY
-http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="IPTV",ADITV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",TATV
-https://v2.siar.us/tatv/live.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv1.png" group-title="IPTV",TV 1 MALAYSIA
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv2.png" group-title="IPTV",TV 2 MALAYSIA
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png" group-title="IPTV",TV6
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1 tvg-id="NTV7" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="IPTV",NTV 7
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-#EXTINF:-1 tvg-id="8TV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="IPTV",8TV
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-#EXTINF:-1 group-title="IPTV",OKEY
-https://list.iptvcat.com/my_list/s/e53ffd2640ae2bb6fa6e310580e12313.m3u8
