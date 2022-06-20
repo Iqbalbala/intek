@@ -415,7 +415,7 @@ https://stream.xpeer.xyz/playlist1/uncharted-2022/master_480.m3u8
 https://stream.xpeer.xyz/playlist2/jai-bhim-2021/master_480.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-subtile=".https://s1.bunnycdn.ru/subpr/subtitle/11962042.vtt?/cache8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000857_ico.png?ts=1655550770" group-title="IPTV"TES
+#EXTINF:-1 tvg-id="" tvg-subtile=".https://s1.bunnycdn.ru/subpr/subtitle/11962042.vtt?/cache8" tvg-logo="" group-title="VOD",tes film
 https://ylme.vizcloud.store/simple/EqPFI_kQBAro1HhYl67rC8Au+VxU+LzzDRt7rqk+wYMnU94US2El/br/H4/v.m3u8p/ingest_206_720p/index.m3u8
 
 
