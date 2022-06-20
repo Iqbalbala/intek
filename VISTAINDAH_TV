@@ -418,4 +418,7 @@ https://stream.xpeer.xyz/playlist2/jai-bhim-2021/master_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-subtile=".https://s1.bunnycdn.ru/subpr/subtitle/11962042.vtt?/cache8" tvg-logo="" group-title="VOD",tes film
 https://ylme.mcloud.to/1aa38222fb084f42a6d1671acee5a045d52fe8044abab3e0551572a5e43d86c77d43d210103e63b3aa76d45da94aec8ef28ac217867cd2fed3e5f16b0527b4826f9547f6161abb5f5e91abb574462f51373dfe5607093f97d99abc008cf941cc327ceb140169bd12bb/r/hls/1080/1080.m3u8
 
-
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=NO,FORCED=NO,URI="https://s1.bunnycdn.ru/subpr/subtitle/11962042.vtt?/cache8",LANGUAGE="en"
+#EXT-X-STREAM-INF:BANDWIDTH=1118592,CODECS="mp4a.40.2, avc1.64001f",RESOLUTION=640x360,SUBTITLES="subs"
+https://ylme.mcloud.to/1aa38222fb084f42a6d1671acee5a045d52fe8044abab3e0551572a5e43d86c77d43d210103e63b3aa76d45da94aec8ef28ac217867cd2fed3e5f16b0527b4826f9547f6161abb5f5e91abb574462f51373dfe5607093f97d99abc008cf941cc327ceb140169bd12bb/r/hls/1080/1080.m3u8
