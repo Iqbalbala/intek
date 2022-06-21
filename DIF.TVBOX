@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:0 user-agent="VLC/3.0.10 LibVLC/3.0.10" , Stream
+#EXTVLCOP:http-user-agent=vistandah
+#EXTINF:-1 group-title="Tes", Tes user
 http://bravo.kugo.id:1935/spacetoon/udp.stream_360p/playlist.m3u8
