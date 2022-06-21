@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTVLCOP:http-user-agent=vistandah
+#EXTVLCOP:http-user-agent=vistaindah
 #EXTINF:-1 group-title="Tes", Tes user
 http://bravo.kugo.id:1935/spacetoon/udp.stream_360p/playlist.m3u8
