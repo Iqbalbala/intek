@@ -420,6 +420,8 @@ https://www1107.ff-03.com/token=_GnyfxasoJyHCc_GI2ATRQ/1655912628/180.242.0.0/19
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQ8_0JUBdszxYCOGh3KzkpwWWQmXdQTgFoQ&usqp=CAU" group-title="VOD",TES VOD
 https://www55.uptostream.com/stream/93yrea6bf9/_m_main_0.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQ8_0JUBdszxYCOGh3KzkpwWWQmXdQTgFoQ&usqp=CAU" group-title="VOD",TES VOD
+https://gdriveplayer.to/embed2.php?link=pDGV6b%252F8oK8jMEegAPL0QgZ%252FHQ2aJlLpPSAJvk39xqcZkpY7fBBa8FfCj7zzZcVo%252F%252BXspMuQ%252FTikFlvCJ9hIVpzD0nw3OLfdbCjL12WzpWTHnnqy7EMB7oGxPcrBpt9oxrYhDjoFAdvDhk6XEUAwnAShMNA9CJmTFv54dQAngC2sn2HnwgUYEp%252FLdp82VCWEuS9wr0xaNBz2Bk7YlIxLMtcJTODdHeK5XG5J3CkjzNqkCaAzEWk6Bzq4XNFPEqqAw%253D
 
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="ind",URI="https://s1.bunnycdn.ru/subpr/subtitle/12004707.vtt?/cache8"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=450560,RESOLUTION=1280x720,SUBTITLES="subs"
