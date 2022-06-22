@@ -1,3 +1,17 @@
+#!/bin/bash
+
+PENGGUNA =intektes
+PASSWORD=1234
+URL=http://bravo.kugo.id:1935/spacetoon/udp.stream_360p/playlist.m3u8
+PAT_URL=server.net
+result=$(wget --user ${USER} --password ${PASSWORD} -qO- ${URL})
+
+jika [ $? -ne 0 ]; kemudian
+    keluar 1;
+fi
+
+echo "${hasil//$PAT_URL/$USER\:$PASSWORD\@$PAT_URL}"
+keluar 0;
 #EXTM3U
-#EXTINF:0 http-user-agent="balates" , Stream
+#EXTINF:-1 tvg-logo="balates" , Stream
 http://bravo.kugo.id:1935/spacetoon/udp.stream_360p/playlist.m3u8
