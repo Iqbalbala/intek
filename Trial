@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:0,spacetoon
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-user-agent=balates
 http://bravo.kugo.id:1935/spacetoon/udp.stream_360p/playlist.m3u8
