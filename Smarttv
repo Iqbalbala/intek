@@ -366,7 +366,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756971_ico.png?ts=1654862036" group-title="IPTV",LIVE Stream 1
-https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8?&m=1
+https://pull.jljiapu.com/leisu/1117613675890480.m3u8?auth_key=1656077460-0-0-187e102be6ff5a19cb34f168636aee31
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
 https://bcovlive-a.akamaihd.net/81662517c7df42848bfa48818a71f1f4/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1655259246~exp=9007200910000237~acl=/81662517c7df42848bfa48818a71f1f4/*/profile_2/chunklist.m3u8*~hmac=43ccd4dececc1ce36e1a3174c82963c87062b80181486d68083dbf5cf0ee6b47&m=1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238523_ico.png?ts=1655201862" group-title="IPTV",LIVE Stream 3
