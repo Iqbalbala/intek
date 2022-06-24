@@ -282,7 +282,7 @@ https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000879_ico.png?ts=1655551073" group-title="IPTV",MNC Sports 2
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1654876988" group-title="IPTV",SUPER SPORT 1
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1654876988" group-title="IPTV",SUPER SPORT 1
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
 
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1654818088" group-title="IPTV",SUPER SPORT 2
@@ -316,9 +316,9 @@ https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20133950_ico.png?ts=1655397863" group-title="IPTV",MALEO
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20958990_ico.png?ts=1655339707" group-title="IPTV",BOX HITS
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20958990_ico.png?ts=1655339707" group-title="IPTV",BOX HITS
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20923805_ico.png?ts=1655155582" group-title="IPTV",MEGASWARA TV
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20923805_ico.png?ts=1655155582" group-title="IPTV",MEGASWARA TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333" group-title="IPTV",MOLA HITS
 http://ventdelnord.tv:8080/mola/directe.m3u8
