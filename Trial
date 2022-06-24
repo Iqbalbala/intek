@@ -1,5 +1,5 @@
 $handle = curl_init();
-$url = "https//lalala.com/file/files/oups.m3u";
+$url = "http://bravo.kugo.id:1935/spacetoon/udp.stream_360p/playlist.m3u8";
 $domain = preg_replace("(^https?://)", "", $url );
 $header = array('Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3');
 curl_setopt($handle, CURLOPT_URL, $url);
