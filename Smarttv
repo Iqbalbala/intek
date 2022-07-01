@@ -380,52 +380,47 @@ http://tvn10.xyz:80/vidio/master.m3u8
 
 
 ____________VODEO ON DEMAND
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19975904_ico.png?ts=1654895307" group-title="VOD",DISARANKAN UNTUK MEMBUKA VIDEO DI PEMUTAR EXTERNAL
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19975904_ico.png?ts=1654895307" group-title="VOD",DISARANKAN UNTUK MEMBUKA VIDEO DI PEMUTAR EXTERNAL
 https://rr2---sn-2ugxh5a5-wvbl.googlevideo.com/videoplayback?expire=1655559007&ei=_36tYo_hL5OwvQTQ5rSwBg&ip=194.233.78.202&id=o-AAD1Vojz5dqOfX7W23qvM0L5Iwrnhe2i6Rni2tmrkrxD&itag=22&source=youtube&requiressl=yes&spc=4ocVCwOrG-rKzA8tXWgPaNu8DIQV4Cg&vprv=1&mime=video%2Fmp4&ns=Ddg4UHCnoF1gPq6nK_WQ87UG&cnr=14&ratebypass=yes&dur=160.101&lmt=1655414792680873&fexp=24001373,24007246&c=WEB&txp=6211224&n=0611uYp0KMWMFgM9Cs4&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgLClCM3C4EIlNLN0KiBx_w7j7_7GJPqN0GNOHCKTx15gCIQCyAItk3dsv0Fy_99OiMMMRh9O7ItC3cCgSu0kl-phwVg%3D%3D&redirect_counter=1&rm=sn-nposl76&req_id=adf987ffbffa3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=Gt&mip=103.124.198.50&mm=31&mn=sn-2ugxh5a5-wvbl&ms=au&mt=1655537326&mv=m&mvi=2&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgFDJ6HOkyZejmPSIRIpM7uGr8F7On5Z08JPFBEi5PIDsCIQDzRKJacXjU30w8I1n2_305x1zdOOO4P2e0bHPMUJ9ibA%3D%3D
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All at Once
-https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All sat Once
+https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022-19.06.2022-15.14.40/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7jrhuJnfF6Qb-UiEkkSrI9qyJKD-24QVHQ&usqp=CAU" group-title="VOD",Ambulance
-https://stream.xpeer.xyz/playlist1/ambulance-2022-03.06.2022-06.50.42/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/ambulance-2022-03.06.2022-06.50.42/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWA9pQUpEMwg5Np2oenunNxN4ndGt0RudxsQ&usqp=CAU" group-title="VOD",The Charnel House
-https://stream.xpeer.xyz/playlist1/the-charnel-house-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/the-charnel-house-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_U7J6234bzgVhE74vTTBxqOaxuKT-e7JCjw&usqp=CAU" group-title="VOD",Temporal
-https://stream.xpeer.xyz/playlist1/temporal-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/temporal-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfU0t9uwP6tEukjW03mtE0TRWf8uvKk9QWQ&usqp=CAU" group-title="VOD",Top Gun Maverick
-https://stream.xpeer.xyz/playlist1/top-gun-maverick-2022-07.06.2022-15.57.54/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/top-gun-maverick-2022-07.06.2022-15.57.54/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwkGfFvcWHobxU8UumAV-T_j6OFWhWyxfFQ&usqp=CAU" group-title="VOD",Hustle
-https://stream.xpeer.xyz/playlist1/hustle-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/hustle-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvYMUOTKjoVEZ0TtWKD4z2EXqj3OdK2mN-WQ&usqp=CAU" group-title="VOD",Rise Roar Revolt
-https://stream.xpeer.xyz/playlist1/rrr-rrr-rise-roar-revolt-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/rrr-rrr-rise-roar-revolt-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD00DQxvAceXfjZZz4y5C_NszK87HqKY9UiQ&usqp=CAU" group-title="VOD",The Batman
-https://stream.xpeer.xyz/playlist1/the-batman-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/the-batman-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXkNOO2yb3acT-865pT03yU7NZm3hcF0QpQ&usqp=CAU" group-title="VOD",The Northman
-https://stream.xpeer.xyz/playlist1/the-northman-2022-23.05.2022-20.22.24/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/the-northman-2022-23.05.2022-20.22.24/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yCe9-QRm3l9_mvx1OZmpIpw2Puxzxzcjdg&usqp=CAU" group-title="VOD",The Girl on Bulldozer
-https://stream.xpeer.xyz/playlist1/the-girl-on-a-bulldozer-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/the-girl-on-a-bulldozer-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7j5V_JvySr9QhtYn-lO_-uRzBQnC9eChvfQ&usqp=CAU" group-title="VOD",A Fairy Tale After All
-https://stream.xpeer.xyz/playlist1/a-fairy-tale-after-all-2022/master_480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU" group-title="VOD",Doctor Strange in the Multiverse of Madness 
-https://stream.xpeer.xyz/playlist1/doctor-strange-in-the-multiverse-of-madness-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/a-fairy-tale-after-all-2022/master_480.m3u8#.mp4
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU" subtitle="subtiles_https://s1.bunnycdn.ru/subpr/subtitle/12004737.vtt?/cache8" group-title="VOD",Doctor Strange in the Multiverse of Madness
+https://stream.xpeer.xyz/playlist1/doctor-strange-in-the-multiverse-of-madness-2022-22.06.2022-04.03.04/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5QDIU-e7M6E6kDOCPLT8cWCMVDqqIFBREEg&usqp=CAU" group-title="VOD",The Unbearable Weight of Massive Talent
-https://stream.xpeer.xyz/playlist1/the-unbearable-weight-of-massive-talent-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/the-unbearable-weight-of-massive-talent-2022/master_480.m3u8$.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jVoh1tE6groa0GK1yUqvBlfL5w4vWYcUmA&usqp=CAU" group-title="VOD",Runway
-https://stream.xpeer.xyz/playlist1/runway-34-2022-03.06.2022-07.16.13/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/runway-34-2022-03.06.2022-07.16.13/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2Aj-0hjGr-u5zgreoNdunsuqXczCQ5bUAw&usqp=CAU" group-title="VOD",One For The Road
-https://stream.xpeer.xyz/playlist1/one-for-the-road-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/one-for-the-road-2022/master_480.m3u8$.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIJAElR7FzPrhhpKXxhxONVus1T0lP4PLuw&usqp=CAU" group-title="VOD",Cyber Hell Exposing an Internet Horror
-https://stream.xpeer.xyz/playlist1/cyber-hell-exposing-an-internet-horror-2022/master_480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwkGfFvcWHobxU8UumAV-T_j6OFWhWyxfFQ&usqp=CAU" group-title="VOD",Attack
-https://stream.xpeer.xyz/playlist1/attack-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/cyber-hell-exposing-an-internet-horror-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSweddnSVKVTNQom_RfAZoXkiLlJtELwAA0FQ&usqp=CAU" group-title="VOD",Attack
+https://stream.xpeer.xyz/playlist1/attack-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtNJVqlJwFYWm9Q3FX4HfyuNQvI_lWNgRdw&usqp=CAU" group-title="VOD",The Lost City
-https://stream.xpeer.xyz/playlist1/the-lost-city-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/the-lost-city-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OGjABQk-IPKhJe0sHkuOwYvMP052V7bugQ&usqp=CAU" group-title="VOD",Uncharted
-https://stream.xpeer.xyz/playlist1/uncharted-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/uncharted-2022/master_480.m3u#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQ8_0JUBdszxYCOGh3KzkpwWWQmXdQTgFoQ&usqp=CAU" group-title="VOD",Jai Bhim
-https://stream.xpeer.xyz/playlist2/jai-bhim-2021/master_480.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=o554588.ingest.sentry.io
-#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/6152382/envelope/?sentry_key=2289b56bd44c4069b1eb457dbcc9c6c9&sentry_version=7
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000857_ico.png?ts=1655550770" group-title="IPTV"TES
-https://etslive-2-vidio-com.akamaized.net/exp=1655594098~acl=/hls-p/ingest_206_*/*~hmac=5ae3155c3ece6f63ef1e6fc9c2da8acfdbf27eed76311b138a082376e7a0a08d/hls-p/ingest_206_720p/index.m3u8
+https://stream.xpeer.xyz/playlist2/jai-bhim-2021/master_480.m3u8.mp4
 
 
