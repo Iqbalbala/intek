@@ -384,22 +384,22 @@ http://tvn10.xyz:80/vidio/master.m3u8
 
 
 ____________VODEO ON DEMAND
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19975904_ico.png?ts=1654895307" group-title="VOD",DISARANKAN UNTUK MEMBUKA VIDEO DI PEMUTAR EXTERNAL
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19975904_ico.png?ts=1654895307" group-title="VOD",DISARANKAN UNTUK MEMBUKA VIDEO DI PEMUTAR EXTERNAL
 https://rr2---sn-2ugxh5a5-wvbl.googlevideo.com/videoplayback?expire=1655559007&ei=_36tYo_hL5OwvQTQ5rSwBg&ip=194.233.78.202&id=o-AAD1Vojz5dqOfX7W23qvM0L5Iwrnhe2i6Rni2tmrkrxD&itag=22&source=youtube&requiressl=yes&spc=4ocVCwOrG-rKzA8tXWgPaNu8DIQV4Cg&vprv=1&mime=video%2Fmp4&ns=Ddg4UHCnoF1gPq6nK_WQ87UG&cnr=14&ratebypass=yes&dur=160.101&lmt=1655414792680873&fexp=24001373,24007246&c=WEB&txp=6211224&n=0611uYp0KMWMFgM9Cs4&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgLClCM3C4EIlNLN0KiBx_w7j7_7GJPqN0GNOHCKTx15gCIQCyAItk3dsv0Fy_99OiMMMRh9O7ItC3cCgSu0kl-phwVg%3D%3D&redirect_counter=1&rm=sn-nposl76&req_id=adf987ffbffa3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=Gt&mip=103.124.198.50&mm=31&mn=sn-2ugxh5a5-wvbl&ms=au&mt=1655537326&mv=m&mvi=2&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgFDJ6HOkyZejmPSIRIpM7uGr8F7On5Z08JPFBEi5PIDsCIQDzRKJacXjU30w8I1n2_305x1zdOOO4P2e0bHPMUJ9ibA%3D%3D
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All at Once
-https://www40.uptostream.com/stream/951sqob317/_m_main_0.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All sat Once
+https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022-19.06.2022-15.14.40/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7jrhuJnfF6Qb-UiEkkSrI9qyJKD-24QVHQ&usqp=CAU" group-title="VOD",Ambulance
-https://stream.xpeer.xyz/playlist1/ambulance-2022-03.06.2022-06.50.42/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/ambulance-2022-03.06.2022-06.50.42/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWA9pQUpEMwg5Np2oenunNxN4ndGt0RudxsQ&usqp=CAU" group-title="VOD",The Charnel House
-https://stream.xpeer.xyz/playlist1/the-charnel-house-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/the-charnel-house-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_U7J6234bzgVhE74vTTBxqOaxuKT-e7JCjw&usqp=CAU" group-title="VOD",Temporal
-https://stream.xpeer.xyz/playlist1/temporal-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/temporal-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfU0t9uwP6tEukjW03mtE0TRWf8uvKk9QWQ&usqp=CAU" group-title="VOD",Top Gun Maverick
-https://stream.xpeer.xyz/playlist1/top-gun-maverick-2022-07.06.2022-15.57.54/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/top-gun-maverick-2022-07.06.2022-15.57.54/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwkGfFvcWHobxU8UumAV-T_j6OFWhWyxfFQ&usqp=CAU" group-title="VOD",Hustle
-https://stream.xpeer.xyz/playlist1/hustle-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/hustle-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvYMUOTKjoVEZ0TtWKD4z2EXqj3OdK2mN-WQ&usqp=CAU" group-title="VOD",Rise Roar Revolt
-https://stream.xpeer.xyz/playlist1/rrr-rrr-rise-roar-revolt-2022/master_480.m3u8
+https://stream.xpeer.xyz/playlist1/rrr-rrr-rise-roar-revolt-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD00DQxvAceXfjZZz4y5C_NszK87HqKY9UiQ&usqp=CAU" group-title="VOD",The Batman
 https://stream.xpeer.xyz/playlist1/the-batman-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXkNOO2yb3acT-865pT03yU7NZm3hcF0QpQ&usqp=CAU" group-title="VOD",The Northman
