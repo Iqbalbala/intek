@@ -294,6 +294,12 @@ EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png
 http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/115617.m3u8
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949838_ico.png?ts=1655035490" group-title="IPTV",ESPN 1
 http://38.127.211.18:80/live/c2eds/ESPN1USA/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949838_ico.png?ts=1655035490" group-title="IPTV",BT SPORT ESPN
+https://brantakan.xyz/da/premium34/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949805_ico.png?ts=1656653813" group-title="IPTV",BT SPORT 1 HD
+https://brantakan.xyz/da/premium31/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600488_ico.png?ts=1656653888" group-title="IPTV",BT SPORT 2 HD
+https://brantakan.xyz/da/premium32/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21262347_ico.png?ts=1656652972" group-title="IPTV",Sky Sports Premier League
 https://brantakan.xyz/da/premium130/chunks.m3u8
 
