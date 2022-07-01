@@ -300,7 +300,7 @@ https://brantakan.xyz/da/premium34/chunks.m3u8
 https://brantakan.xyz/da/premium31/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600488_ico.png?ts=1656653888" group-title="IPTV",BT SPORT 2 HD
 https://brantakan.xyz/da/premium32/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21262347_ico.png?ts=1656652972" group-title="IPTV",Sky Sports Premier League
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21262347_ico.png?ts=1656652972" group-title="IPTV",Sky Sports Premier League
 https://brantakan.xyz/da/premium130/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600629_ico.png?ts=1654805997" group-title="IPTV",NBA
