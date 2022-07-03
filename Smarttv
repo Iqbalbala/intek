@@ -378,9 +378,9 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756971_ico.png?ts=1654862036" group-title="IPTV",LIVE Stream 1
 https://bcovlive-a.akamaihd.net/d578564561544716bd11b4af8d6ed4ea/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1656580063~exp=9007200911321054~acl=/d578564561544716bd11b4af8d6ed4ea/*/profile_0/chunklist.m3u8*~hmac=32a308c83b122481e4889951bcfa9e6c6379cafa93c9c69c5702af9e5495ed91
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
-https://etslive-2-vidio-com.akamaized.net/exp=1656783745~acl=/hls-p/ingest_9211_*/*~hmac=286938f1a9b7efa03fb0c8dd727ed4c7c0f1f4be053a25870bc060b86132063e/hls-p/ingest_9211_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238523_ico.png?ts=1655201862" group-title="IPTV",LIVE Stream 3
 https://pull.jljiapu.com/leisu/1118197666483127.m3u8?auth_key=1656853260-0-0-63d8d6eeead0201f7ff628ed54d3711e
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238523_ico.png?ts=1655201862" group-title="IPTV",LIVE Stream 3
+https://pull.jljiapu.com/leisu/1118197666483127.m3u8?auth_key=1656853260-0-0-63d8d6eeead0201f7ff628ed54d3711e&m=1
 http://tvn10.xyz:80/vidio/master.m3u8
 
 
