@@ -101,8 +101,6 @@ https://bravo.kugo.id/riautv/udp.stream_360p/playlist.m3u8
 http://202.150.153.254/bandungtv360p.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19554476_ico.png?ts=1654802291" group-title="IPTV",J TV
 https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS8Ew1JzUP-YoEfDvTw5aCViEVHnv8Lflw1w&usqp=CAU" group-title="IPTV",ANTARA TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20910317_ico.png?ts=1655078832" group-title="IPTV",MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20921952_ico.png?ts=1655150701" group-title="IPTV",Nusantara TV 
