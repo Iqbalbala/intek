@@ -1,0 +1,3 @@
+Browsershot::url('https://raw.githubusercontent.com/Iqbalbala/intek/main/VISTAINDAH_TV')
+    ->userAgent('My Special Snowflake Browser 1.0')
+    ->save($pathToImage
