@@ -272,12 +272,11 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1655148882" group-title="IPTV",BEIN 3 PREMIUM AR
 http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94490.m3u8
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392732_ico.png?ts=1654805856" group-title="IPTV",SONY TEN1
-http://ranapk-june2.in1.bitmana.io:80/livez.php?c=Ten_1&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392732_ico.png?ts=1654805856" group-title="IPTV",SONY TEN1
+http://103.55.144.46/hls/sonyten1.m3u8
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392768_ico.png?ts=1654805937" group-title="IPTV",SONY TEN2
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w938744200.m3u8?bdixsportstokenendtime=1654809580&bdixsportstokenstarttime=1654802580&bdixsportstokenhash=ce1xSAdilegru6TzBzOu5wB1ISMwWTxw23o37dkv-UE%3Dkenstarttime=1654230780
-http://ranapk-june2.in1.bitmana.io:80/livez.php?c=Ten_2&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392768_ico.png?ts=1654805937" group-title="IPTV",SONY TEN2
+http://103.55.144.46/hls/sonyten2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -318,6 +317,8 @@ https://h1.intechmedia.net/intech/ch3.m3u8
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJ7YHzXv0gPvWUgrap2r2-hX7M2eKUpbtuA&usqp=CAU" group-title="IPTV",AJWA
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515939_ico.png?ts=1657341923" group-title="IPTV",SAUDI SUNNAH TV
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1657356164~dirs=1~hash=014545fc25545a69773d0/ksasunna.smil/ksasunna_source_chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510775_ico.png?ts=1654806232" group-title="IPTV",QURAN TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
 
@@ -375,22 +376,21 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510438_ico.png?ts=1654805457" group-title="IPTV",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
+____________LIVE EVENT
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756971_ico.png?ts=1654862036" group-title="IPTV",LIVE Stream 1
-https://bcovlive-a.akamaihd.net/d578564561544716bd11b4af8d6ed4ea/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1656580063~exp=9007200911321054~acl=/d578564561544716bd11b4af8d6ed4ea/*/profile_0/chunklist.m3u8*~hmac=32a308c83b122481e4889951bcfa9e6c6379cafa93c9c69c5702af9e5495ed91
+https://video-weaver.sin04.hls.live-video.net/v1/playlist/CqYFBvIow6GwW89QiLbsfDwqsM-vVt52TMslFxTK0ZmZV6QIamRcLg046DDfjhysocqn1vlHGq5v19tRQcR3LFNSkeMy7c5RarY0G-JifMa-LylGSfRClrkjgm8GTnDsdO-XEJkwoFBhfPSCZwBNNd0t-LO6JVMZXG4Zzz9HpA_-jPNtols4hxvajVww9dzi6ZSuXt572eWpisPm4uhgu7rwkq_7lpZ73cFdJfTZYWg28oL_V-6N5BtOQ94SMI_1urq2vcvH4rW3phJrzVuzy-NF0unZKEfgv7DzeLIEJM4n8MJhf1uRbLpw55UXBgasbh4lxGK-xe-fZXybS5VMvHlVDeIIaiMDEf5x3plgMMIGucIwFwtlHve-qpXkMwPdIW0X84oK4weh-zFSgVK8fSfdCjChVGpXzI67MmWG0iBtMm4UCzYrOgx-91AZibb_y6EZE2IiJwqdqVOKrY7u5zHXmZavZAfyy9TDMjh_3pWHyQpnyJRnFffNb0S7fhNw07QgdZa4fCO6gfuEtuQNgAagUclIZqsAkVVWNlm1vZIY--L_dUYmB09HT_E2OELy-MGVPWD461Z_qZjRA_dRPNRzRqABL1HAd7NaNDv0qM-H2m0fhM0pGRspsGSzz9txszCPnaT_PTW8lm2Dm7qKnZ0DRQlRJQUhjluqgafAcr6ywQxm-9uIcf0tMOI78hpnEThsULVaF37Nh-H15ZRGJ93WHzbYxhm4524JDTH2pgVw-uRobv8HaH8BqSSAHo3KUnNmrdP4jQxjEZdn_uKmeNIa-h8uyUXQ6ubKyV1hEVBdFWHt1Wl2lGKg5cYPYI9xXkIGdjxl7Ed_N-Jez-bUa98Y-ag-rojC-58yKSqNKwg1RTY6PV2doyrYFTSUO9sSn715XBTmmtg2Ggxig0E1fHIudOxzicwgASoJdXMtd2VzdC0yMJEE.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
 https://pull.jljiapu.com/leisu/1118197666483127.m3u8?auth_key=1656853260-0-0-63d8d6eeead0201f7ff628ed54d3711e
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238523_ico.png?ts=1655201862" group-title="IPTV",LIVE Stream 3
-https://video-weaver.jkt02.hls.live-video.net/v1/playlist/CqcFd4xlQ2Gsd16bMAh7wq6xQJ7ffGkQY440sFbbNvu22Mc1cX6Zg8gXqMCul8dOk4qJZFmXpI4F8yUMbf_RDxGF6ws4tFm2Od2sF262voH6Srs3qWBzD6JEhSlqK6XR4SCmVnCKdjz3DFilREdZdDOFcowKgZVEq_TVmtnpesNpjkNsIaKIIIPe3ICNPRC-jyuhuGuZ_55qpi_t1FDHJjcME-GFtd8HL0AQ8QBDeuAqRF5XNZ-Xty_5hWLHlY7xie27KtqKwyMct9Ew7Pz6PjTNoapxU5izkC39xxz7dwvtkHgFQ14WJdqu6106N_r7b6U-_ZNZAwpnpx_8B4m-Of7Ne-kp2loV5KUHdp0s_JkCZD70FQjfuobQiL87weO6q5zEUp4cNrGmBfhbj1k11lfrhkqamSlGJtZcB9-lo3OWUo9W4DzrqnrwMCERKktmNabk54bhIp0Eyd-0N55rcL8PXmzkPakJUTaU3Wcf2PvljzM6_qD_hMRKaF6QCsayvQ-WNv4mYrdXMc3G_N9bQmlxschJFjW2nd86KGHfN9GMwmi6M3B1UjchsxHaM7ntVf_trsVwHfVD3ibUvvHwGhMdFWoXUbhylOVBElWwSKkFxiRbAYuX4qyn85-ambp2WeUR3sorhJ0tABe15WOJred2FEHvU_DK8i0vrhgAHIzOpR94jbn8-_dB9A_reiW17P_JZFSAYEmwC8z2XKq8ASz5OuVyuRFBHacIQkobicNsMZ5N4V3704JjmwmWsNiysTGfxw7tUqEqp5ej0_txK4tia-VF_U6IsH8Q7E77OZ1Wm99h7E-oL-Me8I1VAEIgfzUF1VIQi3uxru8akavLzAqwutgevpMVw6_1g09hgC3DzYYe6M8QEdO1YmFV7A2HCTCKOUuAmqu9DBoMOJNkdVKqAPyrNPLRIAEqCXVzLXdlc3QtMjCMBA.m3u8
+https://video-weaver.sin04.hls.live-video.net/v1/playlist/CqYFAUDbCM5Du9xwQNN0fvRyhzRYECKBVh2ATmO8pTx8O7r7RLC68OQtp1htrYiH8gPNPfCoDnzxy7ihACU3h7GZpZ_V9aJseEMf95BelMjwV_cRJHjRgT-9x9crq-oUDYIgu3R45Ln6ytTiLbgY0QgyB-PlyieGmcZ2keM8UYR9wP2njJXQqvjCkipNBFRzrK6VKtvJoOSCBXsRjAUeiRzFFzOOO614X47t_aHPNAiHPdMktcrLWhllcKoIBxuoorC-Y3_vcXDFK2LJOfuAPe9lwkY-Yx8K-y8tREBOmB_b8nEblLrvZ78r6OJTRmvmfJh1lsLondtPgAdQCndKC2UyoBI2tv2oNvHqBlVpCKDyE-ucjAPt5TBvgJ668gjxfhS88r1L4mjaba8ru6FzshT-n94iNDgJ-jz6CGeRtNfnh7T0DVCB3c6ovGzisLxqeXm_fjice11CMJt_foUU7GCXCDEvhccUXJo3ztCgntdIr23BeRxingBzOmZITZeQOrIaqzNcDPDwaDRtatE86JY6RF-VCcUiOPo52QYgeIrHMheoAhb32z7CZF0Rk4uKnS9jhTK97dWzl9RWbv5-g2JqPpIs5O4tv8D95YRuh-wUVWGtKDOocMixR10hceYUDx3hp_N3Z_OdtC-mLc5uxEaV_qImUkO1XdYgt6VIh4vb1cNZrXeCaiaiYs2ym7BBGPSg25BRuzhBHYS1rOfnvc5Z5np2ZvWDn1D3blXtGCblGX8XdUg2Fnl_n22jwPFXfvEa-lB24eW_oJiTTI2SHHetqb-RjkOJnqwcjSIZAahrZkWNlRu2XoqwCz7y8BX00Pat7HxERfN7H4mWClA6wekicewSHLhKk3sQL-IUUt7DEqSWeq69mOg5GRlEcglWr3rcHZCAlVY-GgwkXZaD6zyAWXMG2UAgASoJdXMtd2VzdC0yMJEE.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21316161_ico.png?ts=1656952338" group-title="IPTV",LIVE Stream 4
-https://video-weaver.sin01.hls.live-video.net/v1/playlist/CssF5ST2tzFppcCM03Pogajn-_3jXvsOaWft_D3alNyj1vZfiZpP0RV-oAWDIy8Ca0NgFP7BBs4GWUaHb-jQ_HQ_l3LtlMcXtdgHQFnAGP4T9Xa21w1WMRAJNamOfn-ozYXGcps93SpjcyJkq11nKuxR6ga_gKrLItyfkdeJm6ReSXYfIcvOwmZyscccr7JyAiaelpkzvJiKjj8hVf5TGuIsA9HVvUmeIo2OT_pZzl005mtdClr29uxpnOqCBFk7ijbVHr7Yo3sdLFTb4GPZOsKEuOdNAEO7S5XGmVuxsBipZg4w1xre9iVcP4Byh7PVtrr-KidsGaW8qQdIsvBdB2_HQ_YzXbBvVT4Wq6AIZLTdCw1SX7PZYIc5oma31aCClY8D_oWfHGbZL_WPnwHjzgfvtKdTsG6PST-OwqkxcBzmIymAgIP4zQEVDUlL907YDw4azXvxTWmQ16pjp3XsZMjo1A6_-Ae8jh1AyEaSXV3GFS6kc-Ts-xIK141CRdebqQxGPlYW-oSIe_CKdOeRXH4ok7VVerkrLE-YCF69AwDyExRhkTlYKwMtLvDNNE0YPDwee0D9174za45fhe7WEa9mRakb5ZMy16uec5TanUU1tOyNw95eur1jzRF46HOXWgcTFKAQ4E4eRk6kO6hfhGkLRJIwcaNAgVSZLtnHpYlqTUL76wXW_hD0gYQ-frF-Nd9arLMim77sw1CpLYOC0DpxPHVAGpdekE2MVvXKIpyQ231um_iZ0mguRipULUYlaWAZWNqkZhuNjT5ujc7WWPYqlMrO7rE1NJlx5WJxqgyVLmXnDY0iQTW6r_gAfC0kaKWjcPhIQq-5KSH_x_oYLhGGMDMw90k2OpEr3iEpYZjtk1lRQk-Uj000mHqWYeXmPAN4rBBJDR1QUbGUsNCzLv5tSnWRHPbxxU-rUOWk7I_cODVTEGT3HK9cQ8xrTRoMuBIZjQb2a3Or81nbIAEqCXVzLXdlc3QtMjCPBA.m3u8
+https://vsd140.mycdn.me/hls/2667659987529.m3u8/sig/FO0dftUyH58/expires/1657371235985/srcIp/103.124.198.6/clientType/0/srcAg/CHROME_ANDROID/mid/3806513012297/2667659987529_high/index.m3u8?p
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21316161_ico.png?ts=1656952338" group-title="IPTV",LIVE Stream 5 
-https://pull.jy029.com/leisu/1118197320907974.flv?auth_key=1657129350-0-0-7a152d71049379a9e635b1e00f01592f
+https://video-weaver.sin04.hls.live-video.net/v1/playlist/CqYFBvIow6GwW89QiLbsfDwqsM-vVt52TMslFxTK0ZmZV6QIamRcLg046DDfjhysocqn1vlHGq5v19tRQcR3LFNSkeMy7c5RarY0G-JifMa-LylGSfRClrkjgm8GTnDsdO-XEJkwoFBhfPSCZwBNNd0t-LO6JVMZXG4Zzz9HpA_-jPNtols4hxvajVww9dzi6ZSuXt572eWpisPm4uhgu7rwkq_7lpZ73cFdJfTZYWg28oL_V-6N5BtOQ94SMI_1urq2vcvH4rW3phJrzVuzy-NF0unZKEfgv7DzeLIEJM4n8MJhf1uRbLpw55UXBgasbh4lxGK-xe-fZXybS5VMvHlVDeIIaiMDEf5x3plgMMIGucIwFwtlHve-qpXkMwPdIW0X84oK4weh-zFSgVK8fSfdCjChVGpXzI67MmWG0iBtMm4UCzYrOgx-91AZibb_y6EZE2IiJwqdqVOKrY7u5zHXmZavZAfyy9TDMjh_3pWHyQpnyJRnFffNb0S7fhNw07QgdZa4fCO6gfuEtuQNgAagUclIZqsAkVVWNlm1vZIY--L_dUYmB09HT_E2OELy-MGVPWD461Z_qZjRA_dRPNRzRqABL1HAd7NaNDv0qM-H2m0fhM0pGRspsGSzz9txszCPnaT_PTW8lm2Dm7qKnZ0DRQlRJQUhjluqgafAcr6ywQxm-9uIcf0tMOI78hpnEThsULVaF37Nh-H15ZRGJ93WHzbYxhm4524JDTH2pgVw-uRobv8HaH8BqSSAHo3KUnNmrdP4jQxjEZdn_uKmeNIa-h8uyUXQ6ubKyV1hEVBdFWHt1Wl2lGKg5cYPYI9xXkIGdjxl7Ed_N-Jez-bUa98Y-ag-rojC-58yKSqNKwg1RTY6PV2doyrYFTSUO9sSn715XBTmmtg2Ggxig0E1fHIudOxzicwgASoJdXMtd2VzdC0yMJEE.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21316161_ico.png?ts=1656952338" group-title="IPTV",LIVE Stream 6
-https://vsd147.mycdn.me/hls/2660378675785.m3u8/sig/xtth5OIlIEs/expires/1657202041682/srcIp/103.124.198.50/clientType/0/srcAg/CHROME_ANDROID/mid/3800880586313/2660378675785_medium/index.m3u8?p
+https://rmue2hq1pcliv.vcdn.cloud/23c199f72b708e4ea2022f94aab8f470/1657327960855/lhsazur/lhsazur@720p.m3u8
 
 ____________VODEO ON DEMAND
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19975904_ico.png?ts=1654895307" group-title="VOD",DISARANKAN UNTUK MEMBUKA VIDEO DI PEMUTAR EXTERNAL
-https://rr2---sn-2ugxh5a5-wvbl.googlevideo.com/videoplayback?expire=1655559007&ei=_36tYo_hL5OwvQTQ5rSwBg&ip=194.233.78.202&id=o-AAD1Vojz5dqOfX7W23qvM0L5Iwrnhe2i6Rni2tmrkrxD&itag=22&source=youtube&requiressl=yes&spc=4ocVCwOrG-rKzA8tXWgPaNu8DIQV4Cg&vprv=1&mime=video%2Fmp4&ns=Ddg4UHCnoF1gPq6nK_WQ87UG&cnr=14&ratebypass=yes&dur=160.101&lmt=1655414792680873&fexp=24001373,24007246&c=WEB&txp=6211224&n=0611uYp0KMWMFgM9Cs4&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgLClCM3C4EIlNLN0KiBx_w7j7_7GJPqN0GNOHCKTx15gCIQCyAItk3dsv0Fy_99OiMMMRh9O7ItC3cCgSu0kl-phwVg%3D%3D&redirect_counter=1&rm=sn-nposl76&req_id=adf987ffbffa3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=Gt&mip=103.124.198.50&mm=31&mn=sn-2ugxh5a5-wvbl&ms=au&mt=1655537326&mv=m&mvi=2&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgFDJ6HOkyZejmPSIRIpM7uGr8F7On5Z08JPFBEi5PIDsCIQDzRKJacXjU30w8I1n2_305x1zdOOO4P2e0bHPMUJ9ibA%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All sat Once
 https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022-19.06.2022-15.14.40/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7jrhuJnfF6Qb-UiEkkSrI9qyJKD-24QVHQ&usqp=CAU" group-title="VOD",Ambulance
@@ -414,13 +414,13 @@ https://stream.xpeer.xyz/playlist1/the-girl-on-a-bulldozer-2022/master_480.m3u8#
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7j5V_JvySr9QhtYn-lO_-uRzBQnC9eChvfQ&usqp=CAU" group-title="VOD",A Fairy Tale After All
 https://stream.xpeer.xyz/playlist1/a-fairy-tale-after-all-2022/master_480.m3u8#.mp4
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU" subtitle="subtiles_https://s1.bunnycdn.ru/subpr/subtitle/12004737.vtt?/cache8" group-title="VOD",Doctor Strange in the Multiverse of Madness
-https://stream.xpeer.xyz/playlist1/doctor-strange-in-the-multiverse-of-madness-2022-22.06.2022-04.03.04/master_480.m3u8#.mp4
+https://stream.xpeer.xyz/playlist1/doctor-strange-in-the-multiverse-of-madness-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5QDIU-e7M6E6kDOCPLT8cWCMVDqqIFBREEg&usqp=CAU" group-title="VOD",The Unbearable Weight of Massive Talent
-https://stream.xpeer.xyz/playlist1/the-unbearable-weight-of-massive-talent-2022/master_480.m3u8$.mp4
+https://stream.xpeer.xyz/playlist1/the-unbearable-weight-of-massive-talent-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jVoh1tE6groa0GK1yUqvBlfL5w4vWYcUmA&usqp=CAU" group-title="VOD",Runway
 https://stream.xpeer.xyz/playlist1/runway-34-2022-03.06.2022-07.16.13/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2Aj-0hjGr-u5zgreoNdunsuqXczCQ5bUAw&usqp=CAU" group-title="VOD",One For The Road
-https://stream.xpeer.xyz/playlist1/one-for-the-road-2022/master_480.m3u8$.mp4
+https://stream.xpeer.xyz/playlist1/one-for-the-road-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIJAElR7FzPrhhpKXxhxONVus1T0lP4PLuw&usqp=CAU" group-title="VOD",Cyber Hell Exposing an Internet Horror
 https://stream.xpeer.xyz/playlist1/cyber-hell-exposing-an-internet-horror-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSweddnSVKVTNQom_RfAZoXkiLlJtELwAA0FQ&usqp=CAU" group-title="VOD",Attack
@@ -430,7 +430,7 @@ https://stream.xpeer.xyz/playlist1/the-lost-city-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OGjABQk-IPKhJe0sHkuOwYvMP052V7bugQ&usqp=CAU" group-title="VOD",Uncharted
 https://stream.xpeer.xyz/playlist1/uncharted-2022/master_480.m3u#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQ8_0JUBdszxYCOGh3KzkpwWWQmXdQTgFoQ&usqp=CAU" group-title="VOD",Jai Bhim
-https://stream.xpeer.xyz/playlist2/jai-bhim-2021/master_480.m3u8.mp4
+https://stream.xpeer.xyz/playlist2/jai-bhim-2021/master_480.m3u8.#mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSAsI9S4pfkFnhCCPACYqqLxgWb3xniNElRw&usqp=CAU" group-title="VOD",Fantastic Beasts The Secrets of Dumbledore
 https://stream.xpeer.xyz/playlist1/fantastic-beasts-the-secrets-of-dumbledore-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzH9AQlr_-Sw1Qqb2fexoGkjpW6n8Qx3LoQ&usqp=CAU" group-title="VOD",Sonic the Hedgehog 2
@@ -457,16 +457,17 @@ https://stream.xpeer.xyz/playlist1/baahubali-2-conclusion-2017/master_480.m3u8#.
 https://stream.xpeer.xyz/playlist1/morbius-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSURgKPJnOn6mtxaEEGMprOQmeHYZbq2wNg&usqp=CAU" group-title="VOD",Alita Battle Angel
 https://stream.xpeer.xyz/playlist1/alita-battle-angel-2019/master_480.m3u8#.mp4
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOl2VbzoLMM9xIek5TxVQVOCwA7nSxGElww&usqp=CAU" group-title="VOD",The Policemans Lineage
+https://stream.xpeer.xyz/playlist1/the-policemans-lineage-2022-05.07.2022-07.39.14/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Z1tGc8w8M3n5PPpYkWowQS5ksymsjzuiWQ&usqp=CAU" group-title="VOD"Thor Love and Thunder
+https://stream.xpeer.xyz/playlist1/thor-love-and-thunder-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4K1Gewz6XdVmowOtFewGibcpMaMeDe33cg&usqp=CAU" group-title="VOD"Shang-Chi and the Legend of the Ten Rings
+https://stream.xpeer.xyz/playlist1/shang-chi-and-the-legend-of-the-ten-rings-2021/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsZJb6WPSEQ69Fe0y3d9Pe0evBTPKzEwQ4ag&usqp=CAU" group-title="VOD"OnlyFans
+https://stream.xpeer.xyz/playlist1/onlyfans-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TIZbFsTsxnh2qRF0mgrpAv_8o_zmcemzGg&usqp=CAU" group-title="VOD"Jurassic World Dominion 
+https://stream.xpeer.xyz/playlist1/jurassic-world-dominion-2022-07.07.2022-02.22.03/master_480.m3u8#.mp4
+EXTINF:-1 tvg-logo="" group-title="VOD"
 
 
 
