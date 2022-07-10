@@ -13,13 +13,12 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256280_ico.png?ts=1654801277" group-title="IPTV",SCTV
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/exp=1657392293~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=a6d64387bc5bb7a3aa0f8d07de7f1b514f62b3aab9060f995d6f22cecce3b752/vp9/204_stream.mpd
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",INDOSIAR
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/exp=1657391998~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=7437a362a700a0f8a83e4aabc75f2a12ef54aab38f63bbcb914fcfbbd7bbeb7d/vp9/205_stream.mpd
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926609_ico.png?ts=1654729161" group-title="IPTV",O CHANNELL
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/exp=1655563668~acl=/hls-p/ingest_206_*/*~hmac=2c4edd8675a223fbc91cbd7c95138d9288962cf78d665d1dba17d1dc02c87daf/hls-p/ingest_206_720p/index.m3u8
+http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20235430_ico.png?ts=1654801607" group-title="IPTV",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1570597287_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256255_ico.png?ts=1654728354" group-title="IPTV",TRANS 7
