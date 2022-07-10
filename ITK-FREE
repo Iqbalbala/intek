@@ -510,8 +510,8 @@ EXTINF:-1 tvg-logo="" group-title="VOD"
 
 EXTINF:-1 tvg-logo="" group-title="VOD"
 
-EXTINF:-1 tvg-logo="" group-title="VOD"
-
+#EXTINF:-1 tvg-logo="" group-title="IPTV"
+http://m3u.ch/pl/4c145ac6c758c128cc4611cca6e749db-e30d4835a988abc2591166e7b2b21d73.m3u
 
 
 
