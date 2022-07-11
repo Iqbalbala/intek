@@ -463,7 +463,7 @@ https://stream.xpeer.xyz/playlist1/anek-2022/master_480.m3u8#.mp4
 https://stream.xpeer.xyz/playlist1/fast-feel-love-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXsmF7cK2K-AqdXFWgHtVJ-a7O6c6EgCTWA&usqp=CAU" group-title="VOD",The Man From Toronto
 https://stream.xpeer.xyz/playlist1/the-man-from-toronto-2022/master_480.m3u8#.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYw1ZgOo53aiZHNuncB62ym2ITQVsjYubloA&usqp=CAU" group-title="VOD",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYw1ZgOo53aiZHNuncB62ym2ITQVsjYubloA&usqp=CAU" group-title="VOD",Spiderman No Way Home
 https://stream.xpeer.xyz/playlist1/spider-man-no-way-home-2021/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTieQQhmWLg7hSl8qYi0BRGyU6dhUnJyNYQg&usqp=CAU" group-title="VOD",Memory
 https://stream.xpeer.xyz/playlist1/memory-2022-27.06.2022-04.33.17/master_480.m3u8#.mp4
@@ -473,6 +473,28 @@ https://stream.xpeer.xyz/playlist1/resident-evil-welcome-to-raccoon-city-2021/ma
 https://stream.xpeer.xyz/playlist1/hot-blooded-2022/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoO0HyWKjNSrnPRLgN61GQwGdGyVb62S1GgQ&usqp=CAU" group-title="VOD",Samrat Prithviraj
 https://stream.xpeer.xyz/playlist1/samrat-prithviraj-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxCQ_zOdIX5g09pi_XBIIZbRMAKjHB7EMhA&usqp=CAU" group-title="VOD",The Godfather
+https://stream.xpeer.xyz/playlist1/the-godfather-1972/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxynUNpJXayLMZlwVMnlfmrnAMae2IaO_Jg&usqp=CAU" group-title="VOD",The Godfather 2
+https://stream.xpeer.xyz/playlist2/godfather-part-ii-1974/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi52iVhk1S2v9Vk2gl93nAerrcCbLp0U2sCA&usqp=CAU" group-title="VOD",The Dark Knight
+https://stream.xpeer.xyz/playlist1/dark-knight-2008/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtk-8XYH1OCZw5GP8tgH_lfv5AjUdapsjmMg&usqp=CAU" group-title="VOD",The Lord of the Rings The Return of the King 
+https://stream.xpeer.xyz/playlist1/lord-rings-return-king-2003/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSRjapyfSUrl_E4F_Ort7Cb_HAdzL0Hp_1lg&usqp=CAU" group-title="VOD",INCEPTION
+https://stream.xpeer.xyz/playlist1/inception-2010/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYoApHPYBKu_5v0yWExy__SWPYriqsMxvOg&usqp=CAU" group-title="VOD",Kongsi Raya
+https://stream.xpeer.xyz/playlist1/kongsi-raya-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGC-4_Izi_nr46PfhaSucBc4sKVEQ8nkx-g&usqp=CAU" group-title="VOD",Leonora Addio
+https://stream.xpeer.xyz/playlist1/leonora-addio-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GgAmRC-PM_q1vp0fqyK9izBJsls83P4MxQ&usqp=CAU" group-title="VOD",Chip 'N Dale Rescue Rangers
+https://stream.xpeer.xyz/playlist1/chip-n-dale-rescue-rangers-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQkK-OC1nMMN5MYJ27CS8FIOorClsXQz9LQ&usqp=CAU" group-title="VOD",Badhaai do
+https://stream.xpeer.xyz/playlist1/badhaai-do-2022/master_480.m3u8#.mp4
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpfiahoEgKxxSZmSJxjSVxCp3gUi2bgYBhQ&usqp=CAU" group-title="VOD",The Last Victim
+https://stream.xpeer.xyz/playlist1/the-last-victim-2022-30.06.2022-12.17.26/master_480.m3u8#.mp4
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Ug2PeNHJ49j-_L9nwiODq9kVugfReW2RPA&usqp=CAU" group-title="VOD",The Sea Beast
+https://stream.xpeer.xyz/playlist1/the-sea-beast-2022/master_480.m3u8#.mp4
 EXTINF:-1 tvg-logo="" group-title="VOD"
 
 EXTINF:-1 tvg-logo="" group-title="VOD"
@@ -491,8 +513,7 @@ EXTINF:-1 tvg-logo="" group-title="VOD"
 
 EXTINF:-1 tvg-logo="" group-title="VOD"
 
-#EXTINF:-1 tvg-logo="" group-title="IPTV"LIVE
-http://m3u.ch/pl/4c145ac6c758c128cc4611cca6e749db-e30d4835a988abc2591166e7b2b21d73.m3u
+
 
 
 
