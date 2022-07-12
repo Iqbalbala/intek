@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529478_ico.png?ts=1654804931" group-title="IPTV",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762444_ico.png?ts=1654812440" group-title="IPTV",OKEY
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762444_ico.png?ts=1654812440" group-title="IPTV",RTM TV OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529373_ico.png?ts=1655402850" group-title="IPTV",Astro Awani HD
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
