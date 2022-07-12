@@ -4,4 +4,4 @@
   <channel id="TV1.my">
     <display-name lang="en">TV1 HD</display-name>
     <icon src="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TV1-May21-JPG.jpg" />
-    <url>https://rtmklik.rtm.gov.my/</url>
+    <url>https://rtmklik.rtm.gov.my</url>
