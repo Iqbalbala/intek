@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.5.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  </channel>
-  <channel id="TV1.my">
-    <display-name lang="en">TV1 HD</display-name>
-    <icon src="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TV1-May21-JPG.jpg" />
-    <url>https://rtmklik.rtm.gov.my</url>
