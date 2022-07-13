@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://bit.ly/3itZsSm, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"  refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHze8zhYSOXPFp2oCs9qZyMYK_A4RPEtmSog&usqp=CAU" group-title="IPTV",INTEK MITRA VISTA INDAH MENGUCAPKAN SELAMAT HARI RAYA IDUL ADHA 1443 H.
-https://rr4---sn-npoe7nsl.googlevideo.com/videoplayback?expire=1657394950&ei=poLJYrHpNIaK1d8PobyogAk&ip=194.233.78.202&id=o-AG1mRobG_gqQxWhFxU0QzaUxjDYg8QBCIorFp52upkUq&itag=22&source=youtube&requiressl=yes&spc=lT-Kht_RImwYhXoKaMZmc2ii4nWCJk4&vprv=1&mime=video%2Fmp4&ns=bcrDTzZhu2QxGAejkii1R70H&cnr=14&ratebypass=yes&dur=4064.769&lmt=1657073581723478&fexp=24001373,24007246&c=WEB&txp=6211224&n=G-CVS3G8mDr6nMyLRbYS&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgUkZGwIM4s93Ykne6n--6HDl7sPd3Cwq_peX-0AUTvEMCIQCWeO7EJR8ANZ9Ibp4hAmMGyaHSdYApznP5r4Zez7ye1A%3D%3D&rm=sn-npo667z&req_id=b8396c0695fa3ee&redirect_counter=2&cm2rm=sn-2ugxh5a5-wvbl7e&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=Ff&mip=103.124.198.50&mm=29&mn=sn-npoe7nsl&ms=rdu&mt=1657374576&mv=m&mvi=4&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgFZ3-C2fNFcyP3EW-6JIPj7tbvKG2obxC8lrJZUQajV8CIQClsYhB1lQjAT627X6wYLQ-lXYjsueJur83zpa1pktUWA%3D%3D
+https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4#.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20860353_ico.png?ts=1654812112" group-title="IPTV",SPACETOON
 http://bravo.kugo.id:1935/spacetoon/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238780_ico.png?ts=1654727818" group-title="IPTV",MENTARI TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19747038_ico.png?ts=1654801346" group-title="IPTV",TV EDUKASI
-http://118.98.221.131/live/smil:tvedukasi.smil/chunklist_w1108734503_b980000.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957652_ico.png?ts=1655328294" group-title="IPTV",B KIDS
 http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763218_ico.png?ts=1654874049" group-title="IPTV",ZOO MOO ASIA
