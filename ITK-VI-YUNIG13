@@ -377,7 +377,7 @@ ____________LIVE EVENT
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756971_ico.png?ts=1654862036" group-title="IPTV",LIVE Stream 1
 https://etslive-2-vidio-com.akamaized.net/exp=1658070510~acl=/hls-p/ingest_205_*/*~hmac=b4ba7205afed9ac155864bf477ecc336bfb02235c816b059fb26ec553b4f5443/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
-https://pull.jljiapu.com/live/stream3992.flv?auth_key=1657647060-0-0-34f66011374442a64a9eb0337799222e&m=1
+https://etslive-2-vidio-com.akamaized.net/exp=1658076333~acl=/hls-p/ingest_9111_*/*~hmac=27be82e47d987c79bd996f59aabf701ab2591f61f9c7e3eaac5fb860e52c472f/hls-p/ingest_9111_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238523_ico.png?ts=1655201862" group-title="IPTV",LIVE Stream 3
 https://video-weaver.sin04.hls.live-video.net/v1/playlist/CqYFAUDbCM5Du9xwQNN0fvRyhzRYECKBVh2ATmO8pTx8O7r7RLC68OQtp1htrYiH8
 
