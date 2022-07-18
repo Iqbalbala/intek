@@ -20,9 +20,9 @@ http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bi
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256280_ico.png?ts=1654801277" group-title="IPTV",SCTV
-https://us.gdplayer.to/dash/d529ea4d2f016e3889e893da97964f91/b0dff0a0bfa520217328b6bfcb396355/master.mpd?token=eFN5dVlJRWh3S2dIWE5DTUdaVkJwZz09OjpLU%2BUWBV5THT1LxXpvVni5
+https://uk.gdplayer.to/dash/d529ea4d2f016e3889e893da97964f91/ee0730ef14018c7a34d1c236247bdc75/master.mpd?token=eFN5dVlJRWh3S2dIWE5DTUdaVkJwZz09OjpLU%2BUWBV5THT1LxXpvVni5
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",INDOSIAR
-http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+https://us.gdplayer.to/dash/d529ea4d2f016e3889e893da97964f91/b0dff0a0bfa520217328b6bfcb396355/master.mpd?token=eFN5dVlJRWh3S2dIWE5DTUdaVkJwZz09OjpLU%2BUWBV5THT1LxXpvVni5
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926609_ico.png?ts=1654729161" group-title="IPTV",O CHANNELL
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-2-vidio-com.akamaized.net/exp=1655563668~acl=/hls-p/ingest_206_*/*~hmac=2c4edd8675a223fbc91cbd7c95138d9288962cf78d665d1dba17d1dc02c87daf/hls-p/ingest_206_720p/index.m3u8
