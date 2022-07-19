@@ -301,13 +301,16 @@ KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?
 EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000879_ico.png?ts=1655551073" group-title="IPTV",MNC Sports 2
 https://liveanevia.mncnow.id/live/eds/Soccer-1/sa_dash_vmx/Soccer-1.mpd
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1654876988" group-title="IPTV",SUPER SPORT 1
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
-
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1654818088" group-title="IPTV",SUPER SPORT 2
-http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/115616.m3u8
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1654818155" group-title="IPTV",SUPER SPORT 3
-http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/115617.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1654876988" group-title="IPTV",ASTRO SUPERSPORT 1
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1654818088" group-title="IPTV",ASTRO SUPERSPORT 2
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1654818155" group-title="IPTV",ASTRO SUPERSPORT 3
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="IPTV",ASTRO SUPERSPORT 4 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="IPTV",ASTRO SUPERSPORT 5 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949838_ico.png?ts=1655035490" group-title="IPTV",ESPN 1
 http://38.127.211.18:80/live/c2eds/ESPN1USA/HLS/index.m3u8
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949838_ico.png?ts=1655035490" group-title="IPTV",BT SPORT ESPN
