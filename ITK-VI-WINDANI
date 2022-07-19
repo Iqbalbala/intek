@@ -285,23 +285,10 @@ KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?
 EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000879_ico.png?ts=1655551073" group-title="IPTV",MNC Sports 2
 https://liveanevia.mncnow.id/live/eds/Soccer-1/sa_dash_vmx/Soccer-1.mpd
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1654876988" group-title="IPTV",SUPER SPORT 1
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
-
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1654818088" group-title="IPTV",SUPER SPORT 2
-http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/115616.m3u8
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1654818155" group-title="IPTV",SUPER SPORT 3
-http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/115617.m3u8
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949838_ico.png?ts=1655035490" group-title="IPTV",ESPN 1
-http://38.127.211.18:80/live/c2eds/ESPN1USA/HLS/index.m3u8
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949838_ico.png?ts=1655035490" group-title="IPTV",BT SPORT ESPN
-https://brantakan.xyz/da/premium34/chunks.m3u8
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19949805_ico.png?ts=1656653813" group-title="IPTV",BT SPORT 1 HD
-https://brantakan.xyz/da/premium31/chunks.m3u8
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600488_ico.png?ts=1656653888" group-title="IPTV",BT SPORT 2 HD
-https://brantakan.xyz/da/premium32/chunks.m3u8
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21262347_ico.png?ts=1656652972" group-title="IPTV",Sky Sports Premier League
-https://brantakan.xyz/da/premium130/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528780_ico.png?ts=1658211297" group-title="IPTV",UNIFI SPORTS 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528786_ico.png?ts=1658211461" group-title="IPTV",UNIFI SPORTS 2
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600629_ico.png?ts=1654805997" group-title="IPTV",NBA TV
 http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
