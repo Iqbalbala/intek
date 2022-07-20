@@ -69,7 +69,7 @@ https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515910_ico.png?ts=1654729037" group-title="IPTV",RTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185097_ico.png?ts=1654729099" group-title="IPTV",TVRI Nasional
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(01)/index.m3u8bafabba51
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19737294_ico.png?ts=1654729244" group-title="IPTV",RANS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497933_ico.png?ts=1654802059" group-title="IPTV",BERITA SATU
