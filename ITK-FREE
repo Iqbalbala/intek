@@ -25,7 +25,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926609_ico.png?ts=1654729161" group-title="IPTV",O CHANNELL
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://app-etslive-2.vidio.com/live/Ochannel/master.m3u8
+https://app-etslive-2.vidio.com/live/206/master.m3u8?auth=Oeq8rDW658/PZuLyj8ZPGB6KWfaByTYhNr0jpBKpSeXMFFZAKHacTAWlHBAvw84FSLoA2pRk/ek9QlxJTnwVtg
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20235430_ico.png?ts=1654801607" group-title="IPTV",Trans TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256255_ico.png?ts=1654728354" group-title="IPTV",Trans 7
