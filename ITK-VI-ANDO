@@ -311,7 +311,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 ____________LIVE EVENT
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756971_ico.png?ts=1654862036" group-title="IPTV",LIVE Stream 1
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1658595470~acl=/hls-p/ingest_9307_*/*~hmac=6fc2a3ff50819e46418ca749fa5f88c52404d64ab250e5b0a8009cf279907802/hls-p/ingest_9307_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
 https://etslive-2-vidio-com.akamaized.net/exp=1658076333~acl=/hls-p/ingest_9111_*/*~hmac=27be82e47d987c79bd996f59aabf701ab2591f61f9c7e3eaac5fb860e52c472f/hls-p/ingest_9111_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238523_ico.png?ts=1655201862" group-title="IPTV",LIVE Stream 3
