@@ -383,7 +383,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 ____________LIVE EVENT
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756971_ico.png?ts=1654862036" group-title="IPTV",LIVE Stream 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC1tAN0PDpD6KR4yxirTlSAsQ1Pkx1bVkngQ&usqp=CAU" group-title="IPTV",LIVE Stream 1
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 2
 https://pull.jljiapu.com/live/stream3992.flv?auth_key=1657647060-0-0-34f66011374442a64a9eb0337799222e&m=1
